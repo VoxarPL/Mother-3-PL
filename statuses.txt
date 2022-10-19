@@ -1,0 +1,108 @@
+// All status names must be 14 letters or less
+// Most of the things in here are for undiscovered debug menus;
+// don't worry if your translations look weird
+
+00:(EMPTY)
+00-E:(PUSTY)
+01:Poison
+01-E:Otrucie
+02:Numb
+02-E:Parali¿
+03:Sleep
+03-E:Uœpienie
+04:Strange
+04-E:Dziwnoœæ
+05:Crying
+05-E:PÎacz
+06:Forgetful
+06-E:Zapomnienie
+07:Nauseous
+07-E:MdÎoœci
+08:Fleas
+08-E:Zapchlenie
+09:On Fire
+09-E:W Ogniu
+0A:Stopped, Frozen
+0A-E:Zatrzymanie
+0B:Smelly
+0B-E:Zapach
+0C:DCMC
+0C-E:DCMC
+0D:Staple Stopped
+0D-E:Zszywki Stop
+0E:Apology Stopped
+0E-E:Przepros. Stop
+0F:Laugh Stopped
+0F-E:Œmiech Stop
+10:Defense
+10-E:Obrona
+11:No EXP
+11-E:Brak EXP
+12:Off Down (weak)
+12-E:Off Down (weak)
+13:Off Down(strng)
+13-E:Off Down(strng)
+14:Def Down (weak)
+14-E:Def Down (weak)
+15:Def Down(strng)
+15-E:Def Down(strng)
+16:Shield
+16-E:Tarcza
+17:Counter
+17-E:Kontra
+18:Electrocuted
+18-E:Zaszokowanie
+19:PSI Shield
+19-E:Tarcza PSI
+1A:PSI Counter
+1A-E:Kontra PSI
+1B:Off Up (weak)
+1B-E:Off Up (weak)
+1C:Off Up (strong)
+1C-E:Off Up (strong)
+1D:Def Up (weak)
+1D-E:Def Up (weak)
+1E:Def Up (strong)
+1E-E:Def Up (strong)
+1F:Escape Failure
+1F-E:Nie Mo¿na Uciec
+20:Dance
+20-E:Taniec
+21:Off Down (mid)
+21-E:Off Down (mid)
+22:Def Down (mid)
+22-E:Def Down (mid)
+23:Time Bomb
+23-E:Bomba Zegarowa
+24:Parameters Up
+24-E:Parametry Wz.
+25:Parameters Down
+25-E:Parametry Ob.
+26:Refresh
+26-E:Odœwie¿enie
+27:Fell
+27-E:Upadek
+28:MonkeyDanceOff
+28-E:MaÎpiTaniecAtk
+29:MonkeyDanceDef
+29-E:MaÎpiTaniecObr
+2A:MonkeyDanceSP
+2A-E:MaÎpiTaniecPRD
+2B:MonkeyDanceIQ
+2B-E:MaÎpiTaniecIQ
+2C:MonkeyDanceOff
+2C-E:MaÎpiTaniecAtk
+2D:MonkeyDanceDef
+2D-E:MaÎpiTaniecObr
+2E:MonkeyDanceSP
+2E-E:MaÎpiTaniecPRD
+2F:MonkeyDanceIQ
+2F-E:MaÎpiTaniecIQ
+30:Endure
+30-E:WytrwaÎoœæ
+31:Off Up (mid)
+31-E:Off Up (mid)
+32:Def Up (mid)
+32-E:Def Up (mid)
+33:No Back Sprite
+33-E:No Back Sprite

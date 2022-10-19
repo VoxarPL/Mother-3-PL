@@ -1,0 +1,769 @@
+// Enemy descriptions can be any length
+
+00:[END]
+00-E:[END]
+
+01:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+01-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+02:[BREAK][BREAK]Someone has modified this[BREAK]gentle reindeer to make it[BREAK]aggressive.[END]
+02-E:[BREAK][BREAK]Ktoœ zmodyfikowaÎ tego[BREAK]delikatnego renifera, aby[BREAK]byÎ agresywny.[END]
+
+03:[BREAK]The ghost of a musician[BREAK]who died before finishing[BREAK]his symphony. Beware of[BREAK]his captivating melodies.[END]
+03-E:[BREAK]Duch muzyka, który zmarÎ[BREAK]przed ukoñczeniem swojej[BREAK]symfonii. Uwa¿aj na jego[BREAK]urzekajàce melodie.[END]
+
+04:An enormous snake that[BREAK]rules the Osohe Castle[BREAK]basement. Disturb its[BREAK]sleep and it will tidal wave[BREAK]you goodbye.[END]
+04-E:Ogromny wà¿, który[BREAK]rzàdzi w piwnicy Zamku[BREAK]Osohe. Jeœli zakÎócisz jego[BREAK]sen, na po¿egnanie[BREAK]pomacha ci falà.[END]
+
+05:[BREAK][BREAK]A lump of clay brought to[BREAK]life. It works as hard as it[BREAK]looks sad.[END]
+05-E:[BREAK][BREAK]O¿ywiona bryÎa gliny.[BREAK]Pracuje ciê¿ko, przez co[BREAK]wyglàda tak smutno.[END]
+
+06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
+06-E:[BREAK]Okrutne, zmechanizowane[BREAK]monstrum, byÎ niegdyœ[BREAK]przyjaznym zwierzêciem[BREAK]znanym jako Drago.[END]
+
+07:[BREAK]This Pigmask weapon[BREAK]raises an awful racket and[BREAK]belches black exhaust[BREAK]fumes without remorse.[END]
+07-E:[BREAK]Ta broñ Œwiñskich Masek[BREAK]wznosi okropny haÎas i[BREAK]bez wyrzutów sumienia[BREAK]wydziela czarne spaliny.[END]
+
+08:[BREAK]The generator robot of[BREAK]Thunder Tower. It uses[BREAK]paralyzing chop attacks[BREAK]as if to say, "Take that!"[END]
+08-E:[BREAK]Robot generatora Wie¿y[BREAK]Piorunów. U¿ywa ciosów[BREAK]parali¿ujàcych, jakby chciaÎ[BREAK]powiedzieæ: "A masz!"[END]
+
+09:[BREAK]Friend or foe? Even when[BREAK]flat broke and stepped on,[BREAK]this imitable bug is always[BREAK]optimistic.[END]
+09-E:Przyjaciel czy wróg?[BREAK]Nawet jeœli zostaÎ[BREAK]nadepniêty, ten dajàcy[BREAK]siê naœladowaæ robak jest[BREAK]zawsze optymistyczny.[END]
+
+0A:[END]
+0A-E:[END]
+
+0B:[BREAK]No, this isn't a toothpaste[BREAK]mascot. This guy probably[BREAK]doesn't even know what[BREAK]he is, either.[END]
+0B-E:[BREAK]Nie, to nie jest maskotka[BREAK]pasty do zêbów. Ten goœæ[BREAK]te¿ prawdopodobnie nawet[BREAK]nie wie, kim jest.[END]
+
+0C:[BREAK]Believe it or not, this is[BREAK]Porky in the flesh. He is[BREAK]simultaneously an old man[BREAK]and a young boy.[END]
+0C-E:[BREAK]Uwierz lub nie, ale to[BREAK]Porky we wÎasnej osobie.[BREAK]Jest jednoczeœnie starcem[BREAK]i mÎodym chÎopcem.[END]
+
+0D:[BREAK][BREAK]Based on a dream Porky[BREAK]once had. N.K. stands for[BREAK]<Natural Killer>.[END]
+0D-E:[BREAK]Oparty na marzeniu, które[BREAK]niegdyœ miaÎ Porky. Skrót[BREAK]N.Z. oznacza <Naturalny[BREAK]Zabójca>.[END]
+
+0E:[BREAK]What expressions lie[BREAK]hidden behind his mask?[BREAK]...And more importantly,[BREAK]who is he?[END]
+0E-E:[BREAK]Jaki wyraz twarzy kryje[BREAK]siê za jego maskà?[BREAK]...A co wa¿niejsze, kim on[BREAK]jest?[END]
+
+0F:So fierce-looking he's[BREAK]afraid of his own[BREAK]reflection. Takes good[BREAK]care of his men and is a[BREAK]huge DCMC fan.[END]
+0F-E:Wyglàda tak okrutnie, ¿e[BREAK]boi siê nawet wÎasnego[BREAK]odbicia. Dobrze dba o[BREAK]swoich ludzi oraz jest[BREAK]ogromnym fanem DCMC.[END]
+
+10:[BREAK]After tasting defeat, this[BREAK]soldier underwent intense[BREAK]training to power himself[BREAK]up.[END]
+10-E:[BREAK]Po zasmakowaniu pora¿ki,[BREAK]ten ¿oÎnierz przeszedÎ[BREAK]intensywny trening, aby[BREAK]siê wzmocniæ.[END]
+
+11:[BREAK]A wooden bass whose[BREAK]time in the limelight is up.[BREAK]Holds a grudge against the[BREAK]new bass on the block.[END]
+11-E:[BREAK]Drewniany bas, którego[BREAK]czas dobiegÎ koñca. Czuje[BREAK]urazê do nowego basu,[BREAK]który zajàÎ jego miejsce.[END]
+
+12:[BREAK]Porky had a tantrum and[BREAK]made Dr. Andonuts and[BREAK]the Mr. Saturns create an[BREAK]Absolutely Safe Capsule.[END]
+12-E:[BREAK]Porky wpadÎ w furiê i[BREAK]zmusiÎ Dr. Andonutsa[BREAK]oraz Panów Saturn do[BREAK]stworzenia tej kapsuÎy.[END]
+
+13:[BREAK]These guys swarm down[BREAK]from the ceiling when they[BREAK]sense a person's body[BREAK]heat.[END]
+13-E:[BREAK][BREAK]Ci goœcie odklejajà siê od[BREAK]sufitu, gdy tylko wyczujà[BREAK]ciepÎo ludzkiego ciaÎa.[END]
+
+14:[END]
+14-E:[END]
+
+15:[BREAK]A statue honoring Porky's[BREAK]greatness. In its right hand[BREAK]is a slingshot, and in its[BREAK]left is a comic book.[END]
+15-E:[BREAK]Posàg ku czci œwietnoœci[BREAK]Porky'ego. W swojej[BREAK]prawej rêce trzyma[BREAK]procê, a w lewej komiks.[END]
+
+16:[END]
+16-E:[END]
+
+17:[BREAK]Look out! Don't fall for[BREAK]New Fassad's new facade![BREAK]He's bigger and badder[BREAK]than ever![END]
+17-E:[BREAK]Uwa¿aj! Nie daj siê nabraæ[BREAK]na nowà fasadê Nowego[BREAK]Fassada! Jest wiêkszy i[BREAK]podlejszy ni¿ kiedykolwiek![END]
+
+18:[END]
+18-E:[END]
+
+19:[BREAK]This spirited musician[BREAK]can't control his tempo. In[BREAK]fact, his passion is just[BREAK]hitting a crescendo.[END]
+19-E:[BREAK]Ten porywajàcy muzyk[BREAK]nie kontroluje swojego[BREAK]tempa. Jego pasjà jest[BREAK]uderzanie w crescendo.[END]
+
+1A:[BREAK]Takes good care of Blue[BREAK]Balding Eagle chicks and[BREAK]burns with maternal wrath[BREAK]at anyone who approaches.[END]
+1A-E:[BREAK]Dba o pisklêta Niebieskiego[BREAK]Éysiejàcego OrÎa i pÎonie[BREAK]macierzyñskim gniewem[BREAK]na ka¿dego, kto siê zbli¿a.[END]
+
+1B:[END]
+1B-E:[END]
+
+1C:[END]
+1C-E:[END]
+
+1D:Miraculously enough,[BREAK]Fassad has attained an[BREAK]even more powerful form.[BREAK]He may look funny, but he[BREAK]means serious business.[END]
+1D-E:W cudowny sposób Fassad[BREAK]osiàgnàÎ potê¿niejszà[BREAK]formê. Mo¿e wyglàdaæ[BREAK]œmiesznie, ale ma na[BREAK]gÎowie powa¿ne sprawy.[END]
+
+1E:[END]
+1E-E:[END]
+
+1F:[END]
+1F-E:[END]
+
+20:[BREAK]A mysterious energy form[BREAK]that powerfully resonates[BREAK]with the vibrations of the[BREAK]last Needle.[END]
+20-E:[BREAK][BREAK]Tajemnicza forma energii,[BREAK]która silnie rezonuje z[BREAK]wibracjami ostatniej IgÎy.[END]
+
+21:[BREAK]This creature was[BREAK]combined with a leftover[BREAK]rocket from a failed space[BREAK]program.[END]
+21-E:[BREAK]To stworzenie zostaÎo[BREAK]poÎàczone z resztkami[BREAK]rakiety z nieudanego[BREAK]programu kosmicznego.[END]
+
+22:[BREAK]A robot programmed to[BREAK]terrorize Mr. Saturns with[BREAK]frightening words. Humans[BREAK]aren't scared, though.[END]
+22-E:Robot zaprogramowany[BREAK]do terroryzowania Panów[BREAK]Saturn przera¿ajàcymi[BREAK]sÎowami. Jednak ludzie[BREAK]siê go nie bojà.[END]
+
+23:[BREAK]Stealing cheese, chewing[BREAK]power cords... This bad[BREAK]boy's done it all. Has a[BREAK]wife and seven kids.[END]
+23-E:[BREAK]Kradzie¿ sera, ¿ucie[BREAK]przewodów zasilajàcych...[BREAK]Ten bad boy to zrobiÎ.[BREAK]Ma ¿onê i siedmioro dzieci.[END]
+
+24:[BREAK]Lives off magma flowing[BREAK]from volcanos. Its blood[BREAK]reaches temperatures[BREAK]over 1500 degrees.[END]
+24-E:Èyje z magmy[BREAK]wypÎywajàcej z wulkanów.[BREAK]Jego krew osiàga[BREAK]temperaturê ponad 1500[BREAK]stopni.[END]
+
+25:Lions are already scary[BREAK]enough as it is, but[BREAK]combine one with a mech[BREAK]and it becomes terrifyingly[BREAK]cool.[END]
+25-E:Lwy i tak sà ju¿[BREAK]wystarczajàco straszne,[BREAK]ale Îàczàc je z mechem,[BREAK]stajà siê przera¿ajàco[BREAK]fajne.[END]
+
+26:[BREAK]This monster is a hybrid of[BREAK]a traffic barrier and a[BREAK]bloke-ade. What IS a[BREAK]bloke-ade, anyway?[END]
+26-E:[BREAK]Ten potwór jest hybrydà[BREAK]bariery drogowej oraz[BREAK]blokowca. A tak w ogóle,[BREAK]kim JEST blokowiec?[END]
+
+27:[BREAK]A hurried, impetuous,[BREAK]restless mushroom that is[BREAK]also hasty, impatient, and[BREAK]completely frenzied.[END]
+27-E:Pospieszny, popêdliwy,[BREAK]rozbiegany grzyb, który[BREAK]jest równie¿ pochopny,[BREAK]niecierpliwy i kompletnie[BREAK]wariacki.[END]
+
+28:[BREAK]A strange sparrow-stick[BREAK]combination that also[BREAK]seems to have a bomb[BREAK]planted inside it.[END]
+28-E:[BREAK]Dziwna kombinacja wróbla[BREAK]i kija, która wydaje siê[BREAK]mieæ zasadzonà wewnàtrz[BREAK]bombê.[END]
+
+29:[BREAK]This unbalanced Chimera is[BREAK]half legendary giant fish,[BREAK]the <Master of the Sea>,[BREAK]and half plain ol' dog.[END]
+29-E:Ta niezrównowa¿ona[BREAK]Chimera to w poÎowie[BREAK]legendarna olbrzymia[BREAK]ryba, <WÎadca Mórz> i w[BREAK]poÎowie zwykÎy stary pies.[END]
+
+2A:[BREAK]A bat native to the[BREAK]Sunshine Forest. It loves[BREAK]ambiguity and tends to be[BREAK]wishy-washy.[END]
+2A-E:[BREAK]Nietoperz pochodzàcy ze[BREAK]SÎonecznego Lasu.[BREAK]Uwielbia dwuznacznoœæ i[BREAK]ma dziwnà skÎonnoœæ.[END]
+
+2B:[BREAK]This mouse squirrels away[BREAK]anything and everything,[BREAK]even burying its worries[BREAK]and responsibilities.[END]
+2B-E:[BREAK]Ten myszo-wiewiór zwieje[BREAK]z dala od wszystkiego, a[BREAK]nawet zakopie swoje[BREAK]zmartwienia i obowiàzki.[END]
+
+2C:[BREAK]This monster is a small[BREAK]bug fused with a cheap[BREAK]lighter. It's doomed to a[BREAK]one-time use.[END]
+2C-E:[BREAK]Ten potwór to robaczek[BREAK]poÎàczony z tanià[BREAK]zapalniczkà. Jest skazany[BREAK]na jednorazowe u¿ycie.[END]
+
+2D:Desperate to be embraced[BREAK]as sweet and delicious.[BREAK]Prefers to veg out[BREAK]underground as much as[BREAK]possible.[END]
+2D-E:Zdesperowany, by zostaæ[BREAK]uœciœniêtym jako sÎodki[BREAK]i pyszny. Woli jak[BREAK]najbardziej wegetowaæ[BREAK]pod ziemià.[END]
+
+2E:[BREAK]The buzzing wings on its[BREAK]back were probably[BREAK]transplanted from a giant[BREAK]insect.[END]
+2E-E:[BREAK]Brzêczàce skrzydÎa na[BREAK]jego plecach zostaÎy[BREAK]chyba przeszczepione od[BREAK]gigantycznego owada.[END]
+
+2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
+2F-E:Roboty oparty na Porkym,[BREAK]gdy byÎ dzieckiem.[BREAK]Wykonano w zestawie 11[BREAK]sztuk do takich celów jak[BREAK]dru¿yna piÎkarska.[END]
+
+30:[BREAK]The look on his face[BREAK]growls, <Calm boars don't[BREAK]deserve to be called[BREAK]boars!>[END]
+30-E:[BREAK]Wyraz jego twarzy[BREAK]warczy: <Spokojne dziki[BREAK]nie zasÎugujà na miano[BREAK]dzików!>[END]
+
+31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
+31-E:W porównaniu do wê¿y,[BREAK]które zawsze gryzà, ten[BREAK]nie gryzie tak czêsto.[BREAK]Ale gryzie, wiêc i tak bàdŸ[BREAK]ostro¿ny.[END]
+
+32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
+32-E:[BREAK]Ten maÎy goœæ chce byæ[BREAK]sÎodkà kluskà, ale zamiast[BREAK]tego jest z sadzy. ZrobiÎby[BREAK]okropnà przekàskê.[END]
+
+33:Sweet, piping-hot, and[BREAK]yummier than a roasted[BREAK]chestnut, but still a[BREAK]monster. Would probably[BREAK]go well with butter.[END]
+33-E:SÎodki, ostry oraz[BREAK]smaczniejszy ni¿ pieczony[BREAK]kasztan, ale to wcià¿[BREAK]potwór. Dobrze by[BREAK]pasowaÎ do masÎa.[END]
+
+34:[BREAK]Kindly heals people who[BREAK]are hurt, whether they like[BREAK]it or not. But its name is a[BREAK]little iffy.[END]
+34-E:[BREAK]Éaskawie leczy zranionych[BREAK]ludzi, czy im siê to podoba,[BREAK]czy nie. Ale jego imiê[BREAK]jest trochê wàtpliwe.[END]
+
+35:Eastward one day and[BREAK]westward the next, it[BREAK]goes with the tidal flow[BREAK]like a plastic bag in the[BREAK]wind.[END]
+35-E:Jednego dnia na wschód,[BREAK]a nastêpnego na zachód[BREAK]pÎynie z pràdem morskim[BREAK]jak plastikowa torba na[BREAK]wietrze.[END]
+
+36:[BREAK]Fighting this metal monkey[BREAK]will result in quite the[BREAK]experience. Just keep that[BREAK]in mind.[END]
+36-E:[BREAK]Walka z tà metalowà[BREAK]maÎpà zapewni caÎkiem[BREAK]niezÎe doœwiadczenie.[BREAK]Po prostu pamiêtaj o tym.[END]
+
+37:[BREAK]When it doesn't move, it[BREAK]looks just like a rock.[BREAK]When it does move, it still[BREAK]looks like a rock.[END]
+37-E:[BREAK]Kiedy siê nie porusza,[BREAK]wyglàda jak skaÎa.[BREAK]Ale kiedy siê porusza,[BREAK]nadal wyglàda jak skaÎa.[END]
+
+38:These gather in groups to[BREAK]protect themselves from[BREAK]enemies. They'll proudly[BREAK]attack anything that[BREAK]appears to be weaker.[END]
+38-E:Gromadzà siê w grupach,[BREAK]aby chroniæ siê przed[BREAK]wrogami. Z dumà atakujà[BREAK]wszystko, co wydaje siê[BREAK]sÎabsze.[END]
+
+39:[BREAK]He recently got into the[BREAK]unpredictable sport of[BREAK]Snowboard Cross. Get in[BREAK]his way and he'll get mad.[END]
+39-E:[BREAK]Niedawno zainteresowaÎ[BREAK]siê nieobliczalnym sportem[BREAK]Snowboard Cross. WejdŸ[BREAK]mu w drogê, a siê wkurzy.[END]
+
+3A:[BREAK]A cold-blooded mammal[BREAK]that prides itself in its[BREAK]frozen-solid tail capable of[BREAK]hammering nails.[END]
+3A-E:[BREAK]Zimnokrwisty ssak,[BREAK]który szczyci siê swoim[BREAK]solidnie mro¿àcym ogonem zdolnym[BREAK]do wbijania gwoŸdzi.[END]
+
+3B:[BREAK]Has a viscous personality.[BREAK]It uses hypnosis, but it's[BREAK]much like a normal slug in[BREAK]that it hates saltwater.[END]
+3B-E:Posiada lepkà osobowoœæ.[BREAK]U¿ywa hipnozy, ale jest[BREAK]bardzo podobny do[BREAK]zwykÎego œlimaka, gdy¿[BREAK]nienawidzi sÎonej wody.[END]
+
+3C:[BREAK]Don't just sit there and[BREAK]wonder why a rock would[BREAK]attack you. That would be[BREAK]dangerous. [END]
+3C-E:[BREAK]Nie siedŸ tak i nie[BREAK]zastanawiaj siê, dlaczego[BREAK]skaÎa ciê zaatakowaÎa.[BREAK]To byÎoby niebezpieczne.[END]
+
+3D:[BREAK]Often seen wandering[BREAK]around picnic sites. The[BREAK]most normal member of[BREAK]<fungus mobilus>.[END]
+3D-E:Czêsto widziany wêdrujàc[BREAK]po miejscach piknikowych.[BREAK]Najbardziej zwyczajny[BREAK]przedstawiciel <grzyba[BREAK]mobilusa>.[END]
+
+3E:[END]
+3E-E:[END]
+
+3F:[BREAK]Spins its head in a circle[BREAK]when sizing up an enemy.[BREAK]Has titanium skin[BREAK]unsuitable for handbags.[END]
+3F-E:[BREAK]Obraca gÎowê w kóÎko,[BREAK]oceniajàc wroga. Posiada[BREAK]tytanowà skórê, która nie[BREAK]nadaje siê do torebek.[END]
+
+40:[BREAK]A mischievous prankster.[BREAK]In some regions, the males[BREAK]are referred to as Naughty[BREAK]Moles.[END]
+40-E:[BREAK]Psotny dowcipniœ.[BREAK]W niektórych regionach[BREAK]samce sà nazywane[BREAK]Niegrzecznymi Kretami.[END]
+
+41:[BREAK]Burrows into the ground[BREAK]using the drill on its nose.[BREAK]Has a red light on its head[BREAK]for the heck of it.[END]
+41-E:Zakopuje siê w ziemi,[BREAK]u¿ywajàc wiertÎa na nosie.[BREAK]Ma na gÎowie czerwone[BREAK]œwiateÎko, które nie[BREAK]wiadomo do czego sÎu¿y.[END]
+
+42:[BREAK]Prefers to eat meat raw.[BREAK]It's recently taken a liking[BREAK]to dried meat, too. Also[BREAK]loves to eat vegetables.[END]
+42-E:[BREAK]Woli jeœæ surowe miêso.[BREAK]Niedawno polubiÎ te¿[BREAK]suszone miêso. Uwielbia[BREAK]równie¿ jeœæ warzywa.[END]
+
+43:[BREAK]It got sick of being a plant,[BREAK]so it gave walking a try.[BREAK]There's no going back[BREAK]now![END]
+43-E:[BREAK][BREAK]MiaÎ doœæ bycie roœlinà,[BREAK]wiêc spróbowaÎ chodziæ.[BREAK]Teraz ju¿ nie ma odwrotu![END]
+
+44:[BREAK][BREAK]A very orthodox Titany,[BREAK]famous for its personality[BREAK]but not for its voice.[END]
+44-E:[BREAK]Bardzo ortodoksyjna[BREAK]Tytania, która sÎynie z[BREAK]osobowoœci, ale nie z[BREAK]gÎosu.[END]
+
+45:[BREAK]This Snowcap Mountain[BREAK]confection is actually a[BREAK]monster. Tends to melt[BREAK]during heated battles.[END]
+45-E:Ten sÎodycz Œnie¿nej Góry[BREAK]to w rzeczywistoœci[BREAK]potwór. Ma tendencjê do[BREAK]topienia siê podczas[BREAK]goràcych bitew.[END]
+
+46:The Lady of Lava?[BREAK]The Missus of Magma?[BREAK]Someone please explain[BREAK]just who or what she's[BREAK]supposed to be.[END]
+46-E:[BREAK]Panna z Lawy? Èona[BREAK]Magmy? Niech ktoœ proszê[BREAK]wyjaœni, kim lub czym ona[BREAK]ma byæ.[END]
+
+47:Its overwhelmingly pent-up[BREAK]anger explodes with a[BREAK]bang. Pyreflies make their[BREAK]home in this guy's cranial[BREAK]crater.[END]
+47-E:Jego przytÎaczajàco[BREAK]stÎumiony gniew wybucha[BREAK]z hukiem. Piromuchy[BREAK]zamieszkujà w kraterze[BREAK]czaszki tego goœcia.[END]
+
+48:Not even death can stop[BREAK]him from wandering the[BREAK]graveyard. He attacks[BREAK]people as he seeks new[BREAK]life.[END]
+48-E:Nawet ¿adna œmieræ nie[BREAK]powstrzyma go przed[BREAK]wêdrowaniem po[BREAK]cmentarzu. Atakuje ludzi,[BREAK]szukajàc nowego ¿ycia.[END]
+
+49:[BREAK]It chews on its own bones[BREAK]in lieu of a snack. Its most[BREAK]charming point is its[BREAK]drooping eyeball.[END]
+49-E:Zamiast przekàski ¿uje[BREAK]wÎasne koœci. Jego[BREAK]najbardziej urokliwym[BREAK]punktem jest opadajàca[BREAK]gaÎka oczna.[END]
+
+4A:[BREAK][BREAK]Endlessly lingers around[BREAK]graveyards all alone, its[BREAK]flames burning with regret.[END]
+4A-E:[BREAK]Bez koñca przebywa[BREAK]samotnie wokóÎ[BREAK]cmentarzy, a jego[BREAK]pÎomienie pÎonà z ¿alu.[END]
+
+4B:[BREAK]Wouldn't it be easier to[BREAK]visit a grave if the grave[BREAK]came to you? No, wait, it[BREAK]would just be creepy.[END]
+4B-E:[BREAK]Czy nie byÎoby Îatwiej[BREAK]odwiedziæ grób, gdyby ten[BREAK]grób przyszedÎ do ciebie?[BREAK]To byÎoby przera¿ajàce.[END]
+
+4C:[BREAK]Once it sticks, it won't[BREAK]come off easily. Even if[BREAK]you do manage to pull it[BREAK]off, the residue is gross.[END]
+4C-E:Gdy siê przyklei, Îatwo siê[BREAK]nie odczepi. Nawet jeœli[BREAK]uda ci siê go odczepiæ,[BREAK]jego pozostaÎoœci sà[BREAK]obrzydliwe.[END]
+
+4D:[BREAK]An overgrown crawfish.[BREAK]Those big pincers are so[BREAK]handy, they could shear a[BREAK]sheep near-bald.[END]
+4D-E:[BREAK]Przeroœniêty rak. Jego[BREAK]wielkie szczypce sà tak[BREAK]porêczne, ¿e mogà prawie[BREAK]ostrzyc Îysà owcê.[END]
+
+4E:[BREAK]So big, it needs capital[BREAK]letters. When it rolls into a[BREAK]ball, its shape just begs[BREAK]for it to be dribbled.[END]
+4E-E:[BREAK]Taka wielka, ¿e potrzebuje[BREAK]wielkich liter. Kiedy zwija[BREAK]siê w kulkê, jej ksztaÎt[BREAK]bÎaga o kozÎowanie.[END]
+
+4F:Gets cranky once it's[BREAK]grown tired of acting[BREAK]upbeat, even cursing at[BREAK]the rattling of its own dry[BREAK]bones.[END]
+4F-E:Robi siê marudny, kiedy[BREAK]zmêczy siê zachowaniem[BREAK]optymizmu, a nawet[BREAK]grzechotaniem wÎasnych[BREAK]suchych koœci.[END]
+
+50:[BREAK]He and Li'l Big Bro can't[BREAK]decide on their names. If[BREAK]it's any help, this little guy[BREAK]is the older bro.[END]
+50-E:On i MaÎy Wielki Brat nie[BREAK]mogà zdecydowaæ o[BREAK]swoich imionach. Jeœli to[BREAK]jakakolwiek pomoc, on[BREAK]jest starszym bratem.[END]
+
+51:[BREAK]Spends all day sniffing a[BREAK]faint odor lingering inside[BREAK]the barrel. Not a bad guy[BREAK]at heart.[END]
+51-E:Spêdza caÎy dzieñ[BREAK]wàchajàc mdÎy zapach[BREAK]utrzymujàcy siê w beczce.[BREAK]W gÎêbi serca nie jest to[BREAK]zÎy goœæ.[END]
+
+52:[BREAK][BREAK]Caution. This is not[BREAK]strawberry jam. Please do[BREAK]not spread it on bread.[END]
+52-E:[BREAK][BREAK]Uwaga. To nie jest d¿em[BREAK]truskawkowy. Proszê nie[BREAK]smarowaæ go na chlebie.[END]
+
+53:There's nothing special[BREAK]about this spider at all. It[BREAK]isn't poisonous, and it[BREAK]doesn't have any medicinal[BREAK]benefits whatsoever.[END]
+53-E:W tym pajàku nie ma nic[BREAK]szczególnego. Nie jest[BREAK]trujàcy i nie ma nawet[BREAK]¿adnych leczniczych[BREAK]wÎaœciwoœci czy coœ.[END]
+
+54:[BREAK]If butterflies had no wings,[BREAK]they'd be butterwalkers.[BREAK]Without handsome horns,[BREAK]this guy is a... thing.[END]
+54-E:Gdyby motyle nie miaÎy[BREAK]skrzydeÎ, byÎyby[BREAK]motylochodzikami.[BREAK]Bez przystojnych rogów[BREAK]ten goœæ jest... czymœ.[END]
+
+55:[BREAK]One of the Magypsies[BREAK]crafted these monsters to[BREAK]protect something very[BREAK]important.[END]
+55-E:[BREAK]Jeden z Magicyganów[BREAK]stworzyÎ te potwory,[BREAK]aby chroniæ coœ bardzo[BREAK]wa¿nego.[END]
+
+56:[BREAK]Protects its flesh and[BREAK]bones with steel armor.[BREAK]Never mind that it doesn't[BREAK]have any flesh or bones.[END]
+56-E:[BREAK]Chroni swoje miêso i[BREAK]koœci stalowà zbrojà.[BREAK]Niewa¿ne, ¿e nie ma[BREAK]¿adnego miêsa ani koœci.[END]
+
+57:[BREAK]Appears to have a history[BREAK]of killing. Too heavy to be[BREAK]handled by a normal[BREAK]person.[END]
+57-E:[BREAK]Wydaje siê, ¿e ma historiê[BREAK]zabijania. Zbyt ciê¿ki,[BREAK]aby zwykÎa osoba mogÎa[BREAK]siê nim posÎugiwaæ.[END]
+
+58:[BREAK]Appears to be covered in[BREAK]scars of glory. Too heavy[BREAK]to be lifted by a normal[BREAK]person.[END]
+58-E:[BREAK]Wydaje siê byæ pokryta[BREAK]bliznami chwaÎy.[BREAK]Zbyt ciê¿ka, aby zwykÎa[BREAK]osoba mogÎa jà podnieœæ.[END]
+
+59:[BREAK]Once the empty-handed[BREAK]armor gets a hold of its[BREAK]sword and shield... terrible[BREAK]things will happen.[END]
+59-E:[BREAK]Gdy zbroja z pustymi[BREAK]rêkami chwyci swój[BREAK]miecz i tarczê... dziejà[BREAK]siê okropne rzeczy.[END]
+
+5A:[BREAK][BREAK]This cape flaps gallantly in[BREAK]the breeze. It's nihilistic,[BREAK]obnoxious, and totally cool.[END]
+5A-E:[BREAK]Ta peleryna szarmancko[BREAK]powiewa na wietrze. Jest[BREAK]nihilistyczna, nieznoœna i[BREAK]totalnie fajna.[END]
+
+5B:[BREAK]Hasn't noticed that its[BREAK]master is long gone, and[BREAK]continues to bear his[BREAK]weight on its back.[END]
+5B-E:[BREAK]Nie zauwa¿yÎ, ¿e jego[BREAK]pan ju¿ dawno odszedÎ i[BREAK]nadal dŸwiga swój ciê¿ar[BREAK]na plecach.[END]
+
+5C:No matter how long it[BREAK]takes, this door anxiously[BREAK]waits for someone to open[BREAK]it. It's been waiting for[BREAK]years now.[END]
+5C-E:Niewa¿ne, ile czasu to[BREAK]zajmie, te drzwi z[BREAK]niepokojem czekajà, a¿[BREAK]ktoœ je otworzy.[BREAK]Czekajà ju¿ od lat.[END]
+
+5D:[BREAK][BREAK]What you see isn't always[BREAK]what you get. This eerie[BREAK]grin doesn't actually exist.[END]
+5D-E:[BREAK]To, co widzisz, nie zawsze[BREAK]jest tym, o czym myœlisz.[BREAK]Ten straszny uœmiech tak[BREAK]naprawdê nie istnieje.[END]
+
+5E:[BREAK]Its favorite dung is that of[BREAK]the Cactus Wolf, but[BREAK]usually it just makes do[BREAK]with Sand Lizard dung.[END]
+5E-E:[BREAK]Jego ulubiony gnój to gnój[BREAK]Kaktusowego Wilka, ale[BREAK]zwykle wystarcza mu sam[BREAK]gnój Piaskowej Jaszczurki.[END]
+
+5F:[BREAK]Digs a hole and waits for[BREAK]ants to fall inside. Doesn't[BREAK]mind if humans happen to[BREAK]fall in instead.[END]
+5F-E:[BREAK]Kopie dóÎ i czeka, a¿[BREAK]mrówki wpadnà do œrodka.[BREAK]Nie ma nic przeciwko, jeœli[BREAK]wpadnà do niego ludzie.[END]
+
+60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
+60-E:[BREAK]Leci po caÎej pustyni,[BREAK]szczêkajàc brodà.[BREAK]Wprawia swoich[BREAK]przeciwników w gÎupotê.[END]
+
+61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
+61-E:[BREAK]Èuki Gnojarze sprzàtajà[BREAK]ich baÎagan. W zamian,[BREAK]oni zjadajà Èuki Gnojarze.[BREAK]NiezupeÎnie uczciwy handel.[END]
+
+62:[BREAK]The Cactus Wolf has a[BREAK]Wolf Cactus attached[BREAK]firmly to its forehead. The[BREAK]two get along quite well.[END]
+62-E:[BREAK]Kaktusowy Wilk ma mocno[BREAK]przyczepionego Wilkowego[BREAK]Kaktusa do czoÎa.[BREAK]Oboje dobrze siê dogadujà.[END]
+
+63:[BREAK]If you rub your eyes after[BREAK]touching this guy, your[BREAK]legs will turn to goo. Be[BREAK]sure to wash your hands.[END]
+63-E:Jeœli pocierasz oczy po[BREAK]dotkniêciu tego goœcia,[BREAK]twoje nogi zamienià siê w[BREAK]gluty. Pamiêtaj, aby umyæ[BREAK]rêce.[END]
+
+64:[BREAK]It looks like a mummified[BREAK]cat, but it's not a cat at[BREAK]all. It's something entirely[BREAK]different altogether.[END]
+64-E:[BREAK]Wyglàda dokÎadnie jak[BREAK]zmumifikowany kot, ale[BREAK]to wcale nie jest kot.[BREAK]To coœ zupeÎnie innego.[END]
+
+65:[BREAK]Adjective-wise, he's[BREAK]caught between his size[BREAK]and his age. It's all very[BREAK]confusing.[END]
+65-E:Jeœli chodzi o przymiotniki,[BREAK]jest uwiêziony miêdzy[BREAK]swoim rozmiarem a[BREAK]wiekiem. To wszystko jest[BREAK]bardzo zagmatwane.[END]
+
+66:Recently discovered on[BREAK]Tanetane Island. It's[BREAK]usually rotten, and[BREAK]attracts its food by[BREAK]dancing.[END]
+66-E:[BREAK]Niedawno odkryty na[BREAK]Wyspie Tanetane. Zwykle[BREAK]jest zgniÎy i przyciàga[BREAK]jedzenie tañcem.[END]
+
+67:[BREAK]Some ghosts in Osohe[BREAK]Castle are understanding[BREAK]and kindhearted, but these[BREAK]ones are plain ol' mean.[END]
+67-E:[BREAK]Niektóre duchy w Zamku[BREAK]Osohe sà wyrozumiaÎe i[BREAK]uprzejme, ale te sà po[BREAK]prostu olbrzymie.[END]
+
+68:[BREAK]Art is dead! Or so it[BREAK]declares, but there[BREAK]doesn't seem to be any[BREAK]evidence of this.[END]
+68-E:[BREAK]Sztuka nie ¿yje![BREAK]A przynajmniej tak gÎosi,[BREAK]ale nie ma na to ¿adnych[BREAK]dowodów.[END]
+
+69:[BREAK]A drop kick from any one[BREAK]of its eight legs is intense.[BREAK]Its third leg from the right[BREAK]is World Cup class.[END]
+69-E:[BREAK]Kopniêcie jednej z oœmiu[BREAK]nóg jest bolesne. Jego[BREAK]trzecia noga od prawej[BREAK]to klasa sama w sobie.[END]
+
+6A:[BREAK]This piggy plant snorts and[BREAK]blooms from spring to fall.[BREAK]It disperses pollen that[BREAK]causes watery eyes.[END]
+6A-E:Ta œwiñska roœlina prycha[BREAK]i kwitnie od wiosny do[BREAK]jesieni. Rozrzuca pyÎki[BREAK]powodujàce Îzawienie[BREAK]oczu.[END]
+
+6B:[BREAK]An unthinkable blend of a[BREAK]bird and a stick. It chirps[BREAK]and beckons for other[BREAK]animals.[END]
+6B-E:[BREAK][BREAK]Niewyobra¿alna mieszanka[BREAK]ptaka oraz kija. Æwierka i[BREAK]przywoÎuje inne zwierzêta.[END]
+
+6C:[BREAK]Clean the mold off of this[BREAK]guy and there won't be[BREAK]anything left. In other[BREAK]words, he's a pile of mold.[END]
+6C-E:[BREAK]Wyczyœæ pleœñ tego goœcia[BREAK]i nic po nim nie zostanie.[BREAK]Innymi sÎowy, jest kupà[BREAK]pleœni.[END]
+
+6D:This creature is greatly[BREAK]troubled whenever it sees[BREAK]an egg. Should it warm it[BREAK]or swallow it? It can't[BREAK]make up its mind.[END]
+6D-E:To stworzenie jest bardzo[BREAK]zmartwione, gdy widzi[BREAK]jajko. Powinien je ogrzaæ[BREAK]czy poÎknàæ? Nie mo¿e siê[BREAK]zdecydowaæ.[END]
+
+6E:A Chimera that was[BREAK]thrown together with[BREAK]whatever was handy.[BREAK]Some say it turned out[BREAK]better that way.[END]
+6E-E:[BREAK]Chimera rzucona razem z[BREAK]tym, co byÎo pod rêkà.[BREAK]Niektórzy mówià, ¿e tak[BREAK]wyszÎo lepiej.[END]
+
+6F:Startling when it suddenly[BREAK]jumps out from the lake.[BREAK]Its talents include[BREAK]underwater sit and[BREAK]underwater shake. [END]
+6F-E:Zaskakujàce, kiedy nagle[BREAK]wyskakuje z jeziora.[BREAK]Jego talenty obejmujà[BREAK]podwodne siedzenie i[BREAK]podwodne kiwanie.[END]
+
+70:[BREAK]Even the creators of this[BREAK]creature are too afraid to[BREAK]approach it. Stay out of its[BREAK]way, for your own good.[END]
+70-E:Nawet twórcy tego[BREAK]stworzenia zbyt bojà siê[BREAK]do niego podejœæ.[BREAK]Nie wchodŸ mu w drogê,[BREAK]dla wÎasnego dobra.[END]
+
+71:[BREAK][BREAK]A piggish creature with a[BREAK]primate-ish brain. It uses[BREAK]PSI, so don't take it lightly.[END]
+71-E:[BREAK]Œwiñskie stworzenie z[BREAK]mózgiem naczelnych.[BREAK]U¿ywa PSI, wiêc nie[BREAK]lekcewa¿ go.[END]
+
+72:[BREAK]Its aggressive pose is so[BREAK]intimidating, it makes you[BREAK]grateful that it isn't[BREAK]enormous in size.[END]
+72-E:[BREAK]Jej agresywna poza jest[BREAK]tak onieœmielajàca, dziêki[BREAK]czemu jesteœ wdziêczny,[BREAK]¿e nie jest olbrzymia.[END]
+
+73:Its dragon-like appearance[BREAK]protects it from enemies.[BREAK]Also somewhat like a[BREAK]dragon in that it breathes[BREAK]fire.[END]
+73-E:[BREAK]Jej smoczy wyglàd[BREAK]chroni jà przed wrogami.[BREAK]Równie¿ trochê jak[BREAK]smok, potrafi ziaæ ogniem.[END]
+
+74:[BREAK]The Violent Roach was[BREAK]awful, but this guy is[BREAK]bigger, quicker, greasier,[BREAK]and more energetic.[END]
+74-E:GwaÎtowny Karaluch byÎ[BREAK]okropny, ale ten goœæ[BREAK]jest wiêkszy, szybszy,[BREAK]bardziej tÎusty i bardziej[BREAK]energiczny.[END]
+
+75:[BREAK]A Chimera with a Ramblin'[BREAK]Mushroom on its head. In[BREAK]rare cases, its own spores[BREAK]will make it feel strange.[END]
+75-E:Chimera z Wêdrujàcym[BREAK]Grzybem na gÎowie.[BREAK]W rzadkich przypadkach[BREAK]jego zarodniki sprawià, ¿e[BREAK]poczujesz siê dziwne.[END]
+
+76:Even this provincial[BREAK]tortoise was built into a[BREAK]fighting machine, but it's[BREAK]still as slow in the head as[BREAK]ever.[END]
+76-E:Nawet ten prowincjonalny[BREAK]¿óÎw zostaÎ przerobiony[BREAK]na maszynê do walki, ale[BREAK]nadal jest tak powolny w[BREAK]gÎowie jak zawsze.[END]
+
+77:[BREAK]The Li'l Big Bro keeps his[BREAK]beloved Big Bro on his[BREAK]head. Great siblings, but[BREAK]just what ARE they?[END]
+77-E:MaÎy Wielki Brat nosi[BREAK]swojego ukochanego[BREAK]Wielkiego Brata na gÎowie.[BREAK]WspaniaÎe rodzeñstwo,[BREAK]ale czym ONI sà?[END]
+
+78:[BREAK]A strange creature whose[BREAK]wings are too weak for its[BREAK]heavy head. Watch out for[BREAK]its fleas.[END]
+78-E:[BREAK]Dziwne stworzenie,[BREAK]którego skrzydÎa sà zbyt[BREAK]sÎabe dla ciê¿kiej gÎowy.[BREAK]Uwa¿aj na jego pchÎy.[END]
+
+79:[BREAK]Is the long part its trunk[BREAK]or its neck? How does it[BREAK]bathe itself? An utterly[BREAK]mysterious Chimera.[END]
+79-E:[BREAK]Czy dÎuga czêœæ to[BREAK]tuÎów czy szyja? Jak siê[BREAK]on kàpie? Bezwzglêdnie[BREAK]tajemnicza Chimera.[END]
+
+7A:[BREAK]The sillhouette of this[BREAK]Titany's stretched wings[BREAK]against the starry night[BREAK]sky is a sight to behold.[END]
+7A-E:Sylwetka rozpostartych[BREAK]skrzydeÎ Tytanii na tle[BREAK]rozgwie¿d¿onego nocnego[BREAK]nieba to widok, który[BREAK]warto zobaczyæ.[END]
+
+7B:Lets out a sad howl when[BREAK]it meets the Batangutan[BREAK]with its head on it.[BREAK]Occasionally picks fights,[BREAK]too.[END]
+7B-E:[BREAK]Wydaje smutne wycie, gdy[BREAK]napotyka Orangutoperza z[BREAK]gÎowà na nim. Czasami[BREAK]te¿ wchodzi w bójki.[END]
+
+7C:[BREAK]The parent's power comes[BREAK]from its child's support.[BREAK]Although an enemy, it's[BREAK]still quite admirable.[END]
+7C-E:[BREAK]SiÎa rodzica pochodzi ze[BREAK]wsparcia dziecka. Chocia¿[BREAK]jest wrogiem, nadal jest[BREAK]caÎkiem godny podziwu.[END]
+
+7D:[BREAK]A robot that takes care of[BREAK]its master. Cooks, cleans,[BREAK]does laundry, cleans out[BREAK]ears and trims nose hair.[END]
+7D-E:[BREAK]Robot, który dba o swojego[BREAK]pana. Gotuje, czyœci, robi[BREAK]pranie, czyœci uszy i[BREAK]przycina wÎosy w nosie.[END]
+
+7E:[BREAK]The only non-mechanical[BREAK]part is a portion of its[BREAK]face. Only eats raw meat[BREAK]soaked in machine oil.[END]
+7E-E:Jedynà niemechanicznà[BREAK]czêœcià jest kawaÎek jego[BREAK]twarzy. Je tylko surowe[BREAK]miêso nasàczone olejem[BREAK]maszynowym.[END]
+
+7F:[BREAK]Its rocket-based ramming[BREAK]attacks are intense.[BREAK]Doesn't seem to be that[BREAK]interested in outer space.[END]
+7F-E:Jego ataki taranujàce[BREAK]bazujàce na rakiecie sà[BREAK]intensywne. Nie wydaje siê[BREAK]byæ zainteresowany[BREAK]kosmosem.[END]
+
+80:[BREAK][BREAK]A boar rigged up with a[BREAK]spring. And not the water[BREAK]kind, either.[END]
+80-E:[BREAK][BREAK]Dzik wyposa¿ony w[BREAK]sprê¿ynê. I to nie jakiegoœ[BREAK]rodzaju woda.[END]
+
+81:[BREAK]A roach strengthened[BREAK]by its all-silver body. It[BREAK]actually makes it less[BREAK]gross and creepy.[END]
+81-E:Karaluch wzmocniony[BREAK]caÎkowicie srebrnym[BREAK]ciaÎem. W rzeczywistoœci[BREAK]sprawia, ¿e jest mniej[BREAK]obrzydliwy i straszny.[END]
+
+82:A powered-up Flying[BREAK]Mouse. The jet engine on[BREAK]its back and propeller on[BREAK]its neck give it a top[BREAK]speed of 40 mph.[END]
+82-E:O wiele silniejsza Latajàca[BREAK]Mysz. Silnik odrzutowy na[BREAK]plecach i œmigÎo na szyi[BREAK]zapewniajà maksymalnà[BREAK]prêdkoœæ 65 kmh.[END]
+
+83:[BREAK]Flies out of power conduits[BREAK]with lots of energy and...[BREAK]Hectic! Energetic! Electric![BREAK]That's its slogan.[END]
+83-E:Wylatuje z przewodów[BREAK]elektrycznych z du¿à[BREAK]iloœcià energii i jest...[BREAK]Szaleñcza! Energetyczna![BREAK]Elektryczna! To jej slogan.[END]
+
+84:[BREAK]It's minor because, first of[BREAK]all, it's terrible at math,[BREAK]and second, it needs 64 C[BREAK]batteries.[END]
+84-E:[BREAK]Jest pomniejszy, bo po[BREAK]pierwsze jest fatalny z[BREAK]matematyki, a po drugie[BREAK]potrzebuje baterii 64 C.[END]
+
+85:[BREAK]Its engine runs on a deep,[BREAK]passionate yearning to[BREAK]meet people and find out[BREAK]about them.[END]
+85-E:[BREAK]Jego silnik napêdza[BREAK]gÎêbokie, peÎne pasji[BREAK]pragnienie poznawania[BREAK]ludzi i znajdowania ich.[END]
+
+86:[END]
+86-E:[END]
+
+87:[BREAK]A robot that replenishes[BREAK]other robots' energy by[BREAK]utilizing the power of the[BREAK]atom.[END]
+87-E:[BREAK]Robot, który uzupeÎnia[BREAK]energiê innych robotów,[BREAK]wykorzystujàc moc[BREAK]atomów.[END]
+
+88:Replenishes even more[BREAK]energy than the Atomic[BREAK]Power Robot, but its[BREAK]explosion is all the more[BREAK]powerful, too.[END]
+88-E:UzupeÎnia jeszcze wiêcej[BREAK]energii ni¿ Atomowy[BREAK]Robot Mocy, ale jego[BREAK]eksplozja te¿ jest o[BREAK]wiele potê¿niejsza.[END]
+
+89:[BREAK]Feels negatively about[BREAK]anything and everything.[BREAK]Only feels positively about[BREAK]feeling negatively.[END]
+89-E:[BREAK]Negatywnie odnosi siê do[BREAK]czegokolwiek i ka¿dego.[BREAK]Tylko pozytywnie odczuwa[BREAK]negatywne uczucia.[END]
+
+8A:[BREAK]Its head is crammed with[BREAK]knowledge, such as insect[BREAK]and flower names and how[BREAK]much certain things cost.[END]
+8A-E:[BREAK]Jego gÎowa jest peÎna[BREAK]wiedzy, takiej jak nazwy[BREAK]owadów i kwiatów oraz[BREAK]ile kosztujà pewne rzeczy.[END]
+
+8B:[BREAK]What might its ultimate[BREAK]pose be? It's making an[BREAK]effort to master posing[BREAK]techniques in battle.[END]
+8B-E:[BREAK]Jaka mo¿e byæ jego[BREAK]ostateczna poza? Próbuje[BREAK]opanowaæ techniki[BREAK]pozowania podczas walki.[END]
+
+8C:Three years later, the[BREAK]Spud Bug is now a[BREAK]respectable adult. But[BREAK]what does that even mean[BREAK]for a bug?[END]
+8C-E:[BREAK]Trzy lata póŸniej, Stonoga[BREAK]jest teraz powa¿nym[BREAK]dorosÎym. Ale co to w[BREAK]ogóle oznacza dla robaka?[END]
+
+8D:[BREAK]A rustic combination of a[BREAK]baked yam and a toy[BREAK]helicopter. It grates its[BREAK]body and sends gunk flying.[END]
+8D-E:Rustykalna kombinacja[BREAK]pieczonego ziemniaka i[BREAK]zabawkowego helikoptera.[BREAK]Trze swoje ciaÎo i[BREAK]wyrzuca maŸ w powietrze.[END]
+
+8E:[BREAK]A special Chimera created[BREAK]for Porky's birthday.[BREAK]Production expenses were[BREAK]astronomical.[END]
+8E-E:Specjalna Chimera[BREAK]stworzona na urodziny[BREAK]Porky'ego. Koszty jej[BREAK]produkcji byÎy[BREAK]astronomiczne.[END]
+
+8F:[BREAK]A construction Chimera[BREAK]designed to destroy the[BREAK]old Chimera Lab to make[BREAK]way for a new building.[END]
+8F-E:Konstrukcyjna Chimera[BREAK]zaprojektowana do[BREAK]zniszczenia starego[BREAK]Laboratorium Chimera, aby[BREAK]zrobiæ miejsce na nowe.[END]
+
+90:[BREAK]This is getting out of hand.[BREAK]What's next, an anteater[BREAK]zombie? A platypus[BREAK]zombie?[END]
+90-E:[BREAK]To wymyka siê spod[BREAK]kontroli. Co dalej,[BREAK]mrówkojad zombie?[BREAK]A mo¿e dziobak zombie?[END]
+
+91:[BREAK]The eggs of a walleye[BREAK]pollock, salted and[BREAK]prepared to perfection in a[BREAK]seasoned broth. As a man.[END]
+91-E:[BREAK]Jajka mintaja, solone[BREAK]i przygotowane do[BREAK]perfekcji w wywarze z[BREAK]przyprawami. Jako czÎek.[END]
+
+92:[END]
+92-E:[END]
+
+93:[BREAK]Modeled after the Ultimate[BREAK]Octobot. But where did[BREAK]they manage to find an[BREAK]Ultimate Octobot?[END]
+93-E:Bazowany na Ostatecznym[BREAK]Oœmiornibocie. Ale gdzie[BREAK]udaÎo im siê znaleŸæ[BREAK]Ostatecznego[BREAK]Oœmiornibota?[END]
+
+94:Even household carpets[BREAK]aren't safe from this[BREAK]guy's smaller cousins.[BREAK]Osohe just houses the big[BREAK]ones.[END]
+94-E:Nawet domowe dywany[BREAK]nie sà bezpieczne przed[BREAK]mniejszymi kuzynami tego[BREAK]goœcia. Osohe mieœci[BREAK]tylko te du¿e.[END]
+
+95:[BREAK]This Pigmask surveillance[BREAK]robot doesn't utilize[BREAK]infrared detectors. It[BREAK]responds to smell instead.[END]
+95-E:Ten robot monitorujàcy[BREAK]Œwiñskich Masek nie[BREAK]wykorzystuje detektorów[BREAK]podczerwieni. Zamiast[BREAK]tego reaguje na zapach.[END]
+
+96:[BREAK][BREAK]Blundering, chubby soldiers[BREAK]who began showing up in[BREAK]Tazmily one day.[END]
+96-E:[BREAK]Niezdarni, pulchni[BREAK]¿oÎnierze, którzy pewnego[BREAK]dnia zaczêli pojawiaæ siê[BREAK]w Tazmily.[END]
+
+97:See Zombie Man's page for[BREAK]her description, because[BREAK]they're exactly alike,[BREAK]pronouns aside. Not just[BREAK]because the writer is lazy.[END]
+97-E:Zobacz stronê Faceta[BREAK]Zombie, aby zobaczyæ jej[BREAK]opis, sà dokÎadnie tacy[BREAK]sami, poza zaimkami. Nie,[BREAK]¿e pisarz jest leniwy.[END]
+
+98:[BREAK]The rarest member of[BREAK]<fungus mobilus>.[BREAK]Absolutely do not d-d-dare[BREAK]to ever e-e-eat one.[END]
+98-E:Najrzadszy przedstawiciel[BREAK]<grzyba mobilusa>.[BREAK]Absolutnie nie w-w-wa¿[BREAK]siê go kiedykolwiek[BREAK]z-z-zjeœæ.[END]
+
+99:[BREAK]Some may think he's more[BREAK]important than Mr. Batty,[BREAK]but he's actually at Mr.[BREAK]Batty's beck and call.[END]
+99-E:Niektórzy mogà pomyœleæ,[BREAK]¿e jest wa¿niejszy ni¿ Pan[BREAK]Nietoperzyk, ale tak[BREAK]naprawdê jest na zawoÎanie[BREAK]Pana Nietoperzyka.[END]
+
+9A:[BREAK]Has an incredible three, no,[BREAK]four exclamation marks in[BREAK]its name. That's just the[BREAK]kind of spider it is.[END]
+9A-E:[BREAK]Ma w nazwie niesamowite[BREAK]trzy, nie, cztery[BREAK]wykrzykniki. To po prostu[BREAK]jakiœ pajàk.[END]
+
+9B:[BREAK]He's astoundingly greedy[BREAK]and claims he's merely[BREAK]lending everything in the[BREAK]world to everyone.[END]
+9B-E:[BREAK]Jest zdumiewajàco chciwy[BREAK]i twierdzi, ¿e tylko[BREAK]po¿ycza wszystkim[BREAK]wszystko na œwiecie.[END]
+
+9C:[BREAK]A forgotten guitar left[BREAK]wailing in the attic. Plays[BREAK]touching solos with its last[BREAK]three strings.[END]
+9C-E:Zapomniana gitara, która[BREAK]zawodziÎa na strychu.[BREAK]Odgrywa wzruszajàce[BREAK]solówki z trzema[BREAK]ostatnimi strunami.[END]
+
+9D:Even after being torn, it[BREAK]defiantly orders not to[BREAK]give up, but to bang on the[BREAK]rim instead! It isn't easily[BREAK]beaten.[END]
+9D-E:Nawet po rozdarciu[BREAK]wyzywajàco nakazuje siê[BREAK]nie poddawaæ, ale zamiast[BREAK]tego waliæ w brzeg![BREAK]NieÎatwo go pokonaæ.[END]
+
+9E:[BREAK]He's had trouble eating[BREAK]worms ever since both of[BREAK]his hands were converted[BREAK]into power drills.[END]
+9E-E:[BREAK]Ma problemy z jedzeniem[BREAK]robaków, odkàd obie jego[BREAK]rêce zostaÎy zamienione[BREAK]w wiertÎa.[END]
+
+9F:[BREAK]As a lion, its bite and roar[BREAK]are expected. The coiling[BREAK]and the fire-breathing[BREAK]thing, not so much.[END]
+9F-E:[BREAK]Jako lwa oczekuje siê[BREAK]ukàszenia i ryku. Zwoje i[BREAK]ziejàca ogniem rzecz, nie[BREAK]tak bardzo.[END]
+
+A0:[BREAK]This was thrown together[BREAK]for no real reason. There's[BREAK]no use for it, so it was set[BREAK]free on the highway.[END]
+A0-E:To zostaÎo wyrzucone[BREAK]razem bez prawdziwego[BREAK]powodu. Nie ma z niego[BREAK]po¿ytku, wiêc zostaÎ[BREAK]zostawiony na autostradzie.[END]
+
+A1:It boasts an instantly[BREAK]understandable design. If[BREAK]only it would wait to[BREAK]attack until AFTER people[BREAK]do their business...[END]
+A1-E:Oferuje natychmiast[BREAK]zrozumiaÎy wyglàd. Gdyby[BREAK]tylko czekaÎ z atakiem, a¿[BREAK]PO tym, jak ludzie[BREAK]wykonajà swoje sprawy...[END]
+
+A2:[BREAK]A Wobbly Robot that has[BREAK]broken down, with no[BREAK]plans for renovation. It's[BREAK]not worth worrying about.[END]
+A2-E:[BREAK]Drgajàcy Robot, który siê[BREAK]zepsuÎ, bez planów[BREAK]naprawy. Nie warto siê[BREAK]nim martwiæ.[END]
+
+A3:[BREAK]A Clayman that has grown[BREAK]lonely. All sorts of garbage[BREAK]and junk have been[BREAK]absorbed into its body.[END]
+A3-E:Gliniany CzÎek, który staÎ[BREAK]siê samotny. Wszystkie[BREAK]rodzaje gratów i œmieci[BREAK]zostaÎy wchÎoniête w[BREAK]jego ciaÎo.[END]
+
+A4:[BREAK]More than anything, it[BREAK]lives to terrify people. It[BREAK]sometimes startles itself[BREAK]and bursts into laughter.[END]
+A4-E:[BREAK]Przede wszystkim ¿yje,[BREAK]by przera¿aæ ludzi. Czasem[BREAK]siê sam przestrasza i[BREAK]wybucha œmiechem.[END]
+
+A5:Little Alkaline, Mr.[BREAK]Manganese, Li'l Lithium,[BREAK]Sir Nickle. They all look[BREAK]alike, but there are many[BREAK]different kinds.[END]
+A5-E:MaÎy Alkaliczny, Pan[BREAK]Mangan, MaÎy Lit, Sir[BREAK]Nickle. Wszyscy wyglàdajà[BREAK]podobnie, ale jest wiele[BREAK]ró¿nych rodzajów.[END]
+
+A6:A screw that holds[BREAK]Thunder Tower together.[BREAK]Even if 5 or 6 of them[BREAK]come loose, it's no big[BREAK]deal.[END]
+A6-E:Œruba, która utrzymuje[BREAK]razem Wie¿e Piorunów.[BREAK]Nawet jeœli 5 lub 6 z[BREAK]nich wypadnie, to nic[BREAK]wielkiego.[END]
+
+A7:[BREAK]Its creepy, happy smile[BREAK]and overly-friendly[BREAK]attitude make it deeply[BREAK]suspicious.[END]
+A7-E:Jej przera¿ajàcy, radosny[BREAK]uœmiech i nadmiernie[BREAK]przyjazne nastawienie[BREAK]sprawiajà, ¿e jest gÎêboko[BREAK]podejrzana.[END]
+
+A8:Based on a comic drawn[BREAK]by Porky. It shoots[BREAK]mini-mechs from its[BREAK]mouth and causes a real[BREAK]uproar.[END]
+A8-E:Jest na podstawie komiksu[BREAK]narysowanego przez[BREAK]Porky'ego. Wystrzeliwuje[BREAK]z pyska mini-mechy i[BREAK]wywoÎuje okropny haÎas.[END]
+
+A9:[END]
+A9-E:[END]
+
+AA:[END]
+AA-E:[END]
+
+AB:[BREAK]A Pigmask quite content[BREAK]being major. His monthly[BREAK]salary is a meager 1400[BREAK]DP.[END]
+AB-E:Œwiñska Maska caÎkiem[BREAK]zadowolona z bycia[BREAK]majorem. Jego miesiêczna[BREAK]pensja to skromne[BREAK]1400 DP.[END]
+
+AC:[BREAK]A Pigmask who fears[BREAK]demotion to major. His[BREAK]monthly salary is a meager[BREAK]2000 DP.[END]
+AC-E:Œwiñska Maska, która[BREAK]obawia siê degradacji do[BREAK]stopnia majora. Jego[BREAK]miesiêczna pensja to[BREAK]skromne 2000 DP.[END]
+
+AD:[BREAK]A Pigmask who aims for[BREAK]promotion to major. His[BREAK]monthly salary is a meager[BREAK]900 DP.[END]
+AD-E:Œwiñska Maska, której[BREAK]celem jest awans na[BREAK]majora. Jego miesiêczna[BREAK]pensja to skromne[BREAK]900 DP.[END]
+
+AE:[BREAK]Patrols the bottom of the[BREAK]sea and receives an extra[BREAK]4 DP an hour because of[BREAK]the danger involved.[END]
+AE-E:[BREAK]Patroluje dno morza i[BREAK]otrzymuje dodatkowe[BREAK]4 DP na godzinê z powodu[BREAK]niebezpieczeñstwa.[END]
+
+AF:[BREAK]This bizarre creature is[BREAK]like a guardian deity of the[BREAK]sea. He punishes violators[BREAK]with powerful whirlpools.[END]
+AF-E:[BREAK]Ta dziwaczna istota jest[BREAK]jak bóstwo stra¿nicze[BREAK]morza. Karze gwaÎcicieli[BREAK]potê¿nymi wirami.[END]
+
+B0:[BREAK]The rough rider of the sea.[BREAK]This bad boy rebel dyed his[BREAK]pincers and his body[BREAK]metallic purple.[END]
+B0-E:[BREAK]Szorstki jeŸdziec morza.[BREAK]Ten bad boy ufarbowaÎ[BREAK]swoje szczypce i ciaÎo na[BREAK]metaliczny fiolet.[END]
+
+B1:[BREAK]Has five eyeballs. Two are[BREAK]on its back. Has only one[BREAK]mouth... but, wait, that's[BREAK]normal.[END]
+B1-E:[BREAK]Ma piêæ gaÎek ocznych.[BREAK]Dwa sà na jego plecach.[BREAK]Ma tylko jednà buziê... ale[BREAK]chwila, to normalne.[END]
+
+B2:Sometimes it accidentally[BREAK]swallows the food that it[BREAK]went through all the[BREAK]trouble to get for its baby[BREAK]baldlings.[END]
+B2-E:[BREAK]Czasami przypadkowo[BREAK]poÎyka jedzenie, które dla[BREAK]swoich mÎodych przeszedÎ[BREAK]przez mnóstwo kÎopotów.[END]
+
+B3:[BREAK]Takes care of suspicious[BREAK]intruders, smoke in the[BREAK]kitchen, and reheating the[BREAK]bathtub.[END]
+B3-E:[BREAK][BREAK]Dobrze dba o podejrzanych[BREAK]intruzów, pali w kuchni[BREAK]oraz podgrzewa wannê.[END]
+
+B4:This bad breeze causes[BREAK]trouble when it flips up[BREAK]skirts and blows off[BREAK]toupees. Unwelcome,[BREAK]indeed.[END]
+B4-E:Ta zÎa bryza sprawia[BREAK]kÎopoty, gdy podnosi[BREAK]spódnice i zdmuchuje[BREAK]tupety. Nieproszony w[BREAK]rzeczy samej.[END]
+
+B5:[END]
+B5-E:[END]
+
+B6:[END]
+B6-E:[END]
+
+B7:[BREAK]Native to Tanetane Island.[BREAK]The strongest and[BREAK]greenest of all Titany[BREAK]species.[END]
+B7-E:Pochodzi z Wyspy[BREAK]Tanetane. Najsilniejszy i[BREAK]najbardziej zielony ze[BREAK]wszystkich gatunków[BREAK]Tytanii.[END]
+
+B8:This improved Wobbly[BREAK]Robot no longer wobbles.[BREAK]Why wasn't it made this[BREAK]way to begin with? No one[BREAK]knows.[END]
+B8-E:Ten ulepszony Drgajàcy[BREAK]Robot ju¿ nie drga.[BREAK]Dlaczego nie zostaÎo to[BREAK]zrobione w ten sposób?[BREAK]Nikt nie wie.[END]
+
+B9:The Beanling is a very[BREAK]mysterious creature. It's[BREAK]also quick to run away. If[BREAK]you can catch one, it'll be[BREAK]a great day.[END]
+B9-E:Fasolka to bardzo[BREAK]tajemnicze stworzenie.[BREAK]Szybko te¿ ucieka. Jeœli[BREAK]potrafisz go zÎapaæ, to[BREAK]bêdzie wspaniaÎy dzieñ.[END]
+
+BA:[BREAK]A Beanling coated in[BREAK]sparkling syrup. You'll only[BREAK]come across this monster[BREAK]if you've got good luck.[END]
+BA-E:[BREAK]Fasola oblana musujàcym[BREAK]syropem. Spotkasz tego[BREAK]potwora tylko wtedy, gdy[BREAK]masz szczêœcie.[END]
+
+BB:A tiny, tiny forest that[BREAK]grows in the mole cricket[BREAK]hole. It's really more of a[BREAK]bush than a forest, but[BREAK]whatever.[END]
+BB-E:Malutki, malutki las,[BREAK]który roœnie w dziurze[BREAK]krecich œwierszczy.[BREAK]To bardziej krzew ni¿ las,[BREAK]ale niewa¿ne.[END]
+
+BC:[END]
+BC-E:[END]
+
+BD:[END]
+BD-E:[END]
+
+BE:[END]
+BE-E:[END]
+
+BF:[END]
+BF-E:[END]
+
+C0:[END]
+C0-E:[END]
+
+C1:[END]
+C1-E:[END]
+
+C2:[END]
+C2-E:[END]
+
+C3:[END]
+C3-E:[END]
+
+C4:[END]
+C4-E:[END]
+
+C5:[END]
+C5-E:[END]
+
+C6:[END]
+C6-E:[END]
+
+C7:[END]
+C7-E:[END]
+
+C8:[END]
+C8-E:[END]
+
+C9:[END]
+C9-E:[END]
+
+CA:[END]
+CA-E:[END]
+
+CB:[END]
+CB-E:[END]
+
+CC:[END]
+CC-E:[END]
+
+CD:[END]
+CD-E:[END]
+
+CE:[END]
+CE-E:[END]
+
+CF:[END]
+CF-E:[END]
+
+D0:[END]
+D0-E:[END]
+
+D1:[END]
+D1-E:[END]
+
+D2:[END]
+D2-E:[END]
+
+D3:[END]
+D3-E:[END]
+
+D4:[END]
+D4-E:[END]
+
+D5:[END]
+D5-E:[END]
+
+D6:[END]
+D6-E:[END]
+
+D7:[END]
+D7-E:[END]
+
+D8:[END]
+D8-E:[END]
+
+D9:[END]
+D9-E:[END]
+
+DA:[END]
+DA-E:[END]
+
+DB:[END]
+DB-E:[END]
+
+DC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DC-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+DD:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DD-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+DE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DE-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+DF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DF-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E0:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E0-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E1:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E1-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E2:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E2-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E3:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E3-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E4:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E4-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E5:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E5-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E6:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E6-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E7:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E7-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E8:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E8-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+E9:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E9-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+EA:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EA-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+EB:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EB-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+EC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EC-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+ED:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+ED-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+EE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EE-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+EF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EF-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F0:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F0-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F1:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F1-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F2:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F2-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F3:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F3-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F4:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F4-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F5:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F5-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F6:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F6-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F7:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F7-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F8:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F8-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+F9:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F9-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+FA:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FA-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+FB:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FB-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+FC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FC-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+FD:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FD-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+FE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FE-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]
+
+FF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FF-E:[BREAK]Wz: 100cm  Wg: 100kg[BREAK]Osobowoœæ: Okrutny[BREAK]Siedlisko: Góry[BREAK]Doœwiadczenie: 12345[END]

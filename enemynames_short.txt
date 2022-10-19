@@ -1,0 +1,331 @@
+// Short enemy names must be 19 letters or less
+(pusty)
+Przebudo. Karibu
+Pan Pasja
+O-Taki-Wà¿
+Gliniany CzÎek
+Mecha-Drago
+Wieprzowy CzoÎg
+Pan Genetor
+Kreci Œwierszcz
+Straszny Uœmiech
+Jasny Uœmiech
+Porky
+N.Z. Cyborg
+Zamaskowany
+Kawalerzysta
+Kawalerzysta
+Zazdrosny Bas
+Porky
+Lepki Œlimak
+PORKY 02
+Królewski Posàg
+Hipo Wyrzutnia
+Nowy Fassad
+Straszny Uœmiech
+Lord Pasja
+Kochajàce Drzewo
+PORKY 03
+PORKY 08
+Cudowny Fassad
+Major Œ. Maska
+Wielki Mrówkolew
+Fenomeno
+Rakietoro¿ec II
+Strachobot
+Piszczer
+Piromucha
+Mecha-Lew
+Blokada Drogowa
+Mknàcy Grzyb
+Wybuchowy Kij
+Topowa Piesoryba
+Pan Nietoperzyk
+Chciwa Mysz
+Œwietlik
+Pochrzynotwór
+Latajàca Mysz
+PORKY 01
+Wstrzàœniêty Dzik
+Kàsajàcy Wà¿
+Kluska z Sadzy
+Upieczony Potwór
+Chodzàcy Krzaczek
+Beztroska Meduza
+Stalowa MaÎpa
+Turn. Jaszczurka
+Stonoga
+Ten-Yeti
+Mro¿àcy Pies
+Œluzowaty Œlimak
+Minerali
+Wêdrujàcy Grzyb
+Kreci Œwierszcz
+Boa Tranzystor
+Psotny Kret
+Mecha-Kret!
+Éysiejàcy OrzeÎ
+Drzewo
+Tytania
+Zamro¿ona BuÎka
+Pani Lawa
+Magman
+Facet Zombie
+Pies Zombie
+Marudzàca Dusza
+Ruchliwy Grób
+Nieprzyss. Pijawka
+Bezkrêgowy Homar
+OGROMNA Pluskwa
+WesoÎy Szkielet
+Wielki Brat
+CzÎowiek Beczka
+Truskaw. Szlam
+Pajêczak!
+GwaÎtownyKaraluch
+Trójca Bariery
+Zbroja Ducha
+Miecz Ducha
+Tarcza Ducha
+Duch Rycerza
+Peleryna z Osohe
+RozkoÎysany Duch
+Pseudodrzwi
+Straszny Uœmiech
+Èuk Gnojarz
+Wielki Mrówkolew
+Sara-Sara-Sahara
+Piask. Jaszczurka
+Kaktusowy Wilk
+Glutowaty Glut
+Kleokotra
+MaÎy Wielki Brat
+Grzyb Zombie
+Œmierdzàcy Duch
+Artystyczny Duch
+Ogierantula
+Œwiñska Petunia
+Skrzeczàcy Kij
+CzÎowiek Pleœñ
+Zaskuroniec
+Wszystko Jedno
+Piesoryba
+Wê¿obydlê
+Einwieprz
+Modliszka
+Staro¿ytna Wa¿ka
+Paskudny Karaluch
+Kundlomor
+Mecha-ÈóÎw
+ZespóÎ Braci
+Orangutoperz
+StrusiosÎoñ
+Niebiañska Tytania
+Morspiszon
+R. Kangurekin
+MaÎa Pani Pianka
+Prawie Mecha-Lew
+Rakietoro¿ec
+Pirat Drogowy
+Metalowy Karaluch
+P. Latajàca Mysz
+Obwodowa Iskra!
+Pomniejszy Robot
+MiÎosnySpacerowicz
+Straszny Uœmiech
+Atom. Robot Mocy
+Nuklearny Robot
+Negatywny CzÎek
+MasywnogÎowy
+NiezÎy Pozer
+Wielka Stonoga
+TartyPochrzynotwór
+Hipo Wyrzutnia
+Stalowy Mechagoryl
+Pancernik Zombie
+CzÎek z Ikry
+PORKY 07
+PowrótOœmiornibota
+Dywanowy Potwór
+Maszyna Zwiadow.
+Œwiñska Maska
+Kobieta Zombie
+Niegrzeczny Grzyb
+Starszy Nietoperzyk
+Pajêczak!!!!
+Chciwsza Mysz
+Grajàca Gitara
+Wyczerpany Bêben
+Przebudowany Kret
+Przebudowany Lew
+Drgajàcy Robot
+Znak Toalety
+ZÎomowany Robot
+Kupa Œmieci
+PudÎo Niespodzianka
+CzÎowiek Bateria
+LuŸna Œrubka
+Tulàca Bomba
+K9000
+CzÎowiek Alkaliczny
+PORKY 06
+Major Œ. Maska
+PuÎkownik Œ. Maska
+Kapitan Œ. Maska
+Marynarz KWIK
+Mistrz Eddy
+Rockujàcy Homar
+OkràààgÎa Ryba
+Nieb. Éys. OrzeÎ
+Robot Bezpieczeñ.
+Nieprosz. Podmuch
+PORKY 09
+PORKY 10
+Tytanian
+Ulepszony Robot
+Fasolka
+Czarna Fasolka
+Malutki Las
+PORKY 04
+PORKY 05
+Zamaskowany
+Zamaskowany
+(pusty)
+Szpilka
+Mrówkolew
+Kawalerzysta
+Krab
+Sum Elektryczny
+Shimmy Zmizz
+Magic
+Duster
+Keyboard
+OJ
+Robot
+Èuk Gnojarz
+Osoba w Namiocie
+Œnie¿ny Królik
+Gliniany CzÎek
+Para
+Linowy Wà¿
+Linowy Wà¿
+StóÎ Aeolii
+SÎoma
+Para 2
+Mini Winda
+Drago
+Kawalerzysta
+Zielony Pociàg
+Drago Pompa
+Troje Amigo
+Kwiat
+Linowa Drabina
+PÎomieñ 3
+Flaga
+Kolejka Linowa
+(pusty)
+KawaÎek
+PÎomieñ 1
+Korzeñ Lotosu
+Glina
+Eksplozja
+Dym
+GÎowa Posàgu
+Karuzela
+Garderoba N.
+Rój Œwietlików
+Ubranie Hinawy
+Sum Elektryczny
+MiotÎa
+Ryba
+Je¿owiec
+Pociàg
+Znak
+Znak
+(pusty)
+Portret
+Przyjazny Duch
+Œmietnik
+Stalowa Kula
+Jajko ŒwiatÎa
+Kasztan
+RozkoÎysany Duch
+Œwieca
+Mysz
+Maszyna Ener.
+Lekkie Ostrze
+Kieliszek Wina
+Linowy Wà¿
+Pluskwa
+Œmieciarka
+Dym
+Aeolia
+Doria
+Lupa
+Dymek Tekstowy
+Znak
+BRAK Kamienia
+Kumatora
+OdÎamek Kamienia
+Ten Samochód
+Czarny Drago
+Kreci Œwierszcz
+BÎyskawica
+Statek Powieprzny
+(pusty)
+Lydia
+Mixolydia
+Hinawa
+Zamro¿ony Drago
+Porky
+Piorun
+Myszka
+Dr. Andonuts
+Zamek Osohe
+Statek Powieprzny
+Wulkan
+Eksplozja FX
+Napis
+OdlegÎy Statek
+PÎytki
+(pusty)
+Wodna Kolumna
+OdlegÎy Statek
+BRAK Dymu Skalnego
+Dym
+Drzewko
+(pusty)
+(pusty)
+(pusty)
+(pusty)
+(pusty)
+Grób
+Phrygia
+Kostka
+Èelazny OÎówek
+Karibu
+Ionia
+S. Wiatr Drago
+Grzyb
+Most
+Niebieski Namiot
+KoñStoÎowy1
+KoñStoÎowy2
+KoñStoÎowy3
+ÉódŸ na 100P
+Mini Porky-Bot
+Znak
+Wózek
+Balon do Gry
+Bêben Baccios
+Atrament Oœmiornicy
+Smocze Fajerwerki
+Rakieta
+Radiowóz
+Samochód
+Poddasze Titiboo
+Logo MOTHER 3
+Podœwiat
+Zaœwiat
+Drzwi Toalety
+Aeolia&Sofa

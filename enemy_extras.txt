@@ -1,0 +1,2058 @@
+// (PUSTY)
+-
+-
+-
+-
+-
+// Przebudowany Karibu
+-
+-
+-
+-
+jego 
+// Pan Pasja
+- 
+- 
+-
+-
+jego 
+// O-Taki-Wąż
+-
+-
+-
+-
+jego 
+// Gliniany Człek
+-
+-
+-
+-
+jego 
+// Mecha-Drago
+-
+-
+-
+-
+jego 
+// Wieprzowy Czołg
+-
+-
+-
+-
+jego 
+// Pan Genetor
+-
+-
+-
+-
+jego 
+// Kreci Świerszcz
+-
+-
+-
+-
+jego 
+// Straszny Uśmiech
+-
+-
+-
+-
+jego 
+// Jasny Uśmiech
+-
+-
+-
+-
+jego 
+// Porky
+-
+-
+-
+-
+jego 
+// N.Z. Cyborg
+-
+-
+-
+-
+jego 
+// Zamaskowany
+-
+-
+-
+-
+jego 
+// Okrutny Kawalerzysta
+-
+-
+-
+-
+jego 
+// Okrutny Kawalerzysta
+-
+-
+-
+-
+jego 
+// Zazdrosny Bas
+-
+-
+-
+-
+jego 
+// Porky
+-
+-
+-
+-
+jego 
+// Lepki Ślimak
+-
+-
+-
+-
+jego 
+// PORKY 02
+-
+-
+-
+-
+jego 
+// Królewski Posąg
+-
+-
+-
+-
+jego 
+// Hipopotamia Wyrzutnia
+-
+-
+-
+-
+jej 
+// Nowy Fassad
+-
+-
+-
+-
+jego 
+// Straszny Uśmiech
+-
+-
+-
+-
+jego 
+// Lord Pasja
+-
+-
+-
+-
+jego 
+// Czułe Kochające Drzewo
+-
+-
+-
+-
+jego 
+// PORKY 03
+-
+-
+-
+-
+jego 
+// PORKY 08
+-
+-
+-
+-
+jego 
+// Cudowny Fassad
+-
+-
+-
+-
+jego 
+// Major Świńska Maska
+-
+-
+-
+-
+jego 
+// Wielki Mrówkolew
+-
+-
+-
+-
+jego 
+// Fenomeno
+-
+-
+-
+-
+jego 
+// Rakietorożec II Klasy
+-
+-
+-
+-
+jego 
+// Strachobot
+-
+-
+-
+-
+jego 
+// Piszczer
+-
+-
+-
+-
+jego 
+// Piromucha
+-
+-
+-
+-
+jej 
+// Mecha-Lew
+-
+-
+-
+-
+jego 
+// Blokada Drogowa
+-
+-
+-
+-
+jej 
+// Mknący Grzyb
+-
+-
+-
+-
+jego 
+// Skrzeczący Wybuchowy Kij
+-
+-
+-
+-
+jego 
+// Topowa Piesoryba
+-
+-
+-
+-
+jej 
+// Pan Nietoperzyk
+-
+-
+-
+-
+jego 
+// Chciwa Mysz
+-
+-
+-
+-
+jej 
+// Świetlik
+-
+-
+-
+-
+jego 
+// Pochrzynotwór
+-
+-
+-
+-
+jego 
+// Latająca Mysz
+-
+-
+-
+-
+jej 
+// PORKY 01
+-
+-
+-
+-
+jego 
+// Wstrząśnięty Dzik
+-
+-
+-
+-
+jego 
+// Mocny Kąsający Wąż
+-
+-
+-
+-
+jego 
+// Kluska z Sadzy
+-
+-
+-
+-
+jej 
+// Upieczony Pochrzynotwór
+-
+-
+-
+-
+jego 
+// Chodzący Krzaczek
+-
+-
+-
+-
+jego 
+// Beztroska Meduza
+-
+-
+-
+-
+jej 
+// Stalowa Tajemnicza Małpa
+-
+-
+-
+-
+jej 
+// Turniowa Jaszczurka
+-
+-
+-
+-
+jej 
+// Stonoga
+-
+-
+-
+-
+jej 
+// Ten-Yeti
+-
+-
+-
+-
+jego 
+// Mrożący Pies
+-
+-
+-
+-
+jego 
+// Śluzowaty Ślimak
+-
+-
+-
+-
+jego 
+// Minerali
+-
+-
+-
+-
+jego 
+// Wędrujący Grzyb
+-
+-
+-
+-
+jego 
+// Kreci Świerszcz
+-
+-
+-
+-
+jego 
+// Boa Tranzystor
+-
+-
+-
+-
+jego 
+// Psotny Kret
+-
+-
+-
+-
+jego 
+// Mecha-Kret!
+-
+-
+-
+-
+jego 
+// Łysiejący Orzeł
+-
+-
+-
+-
+jego 
+// Drzewo
+-
+-
+-
+-
+jego 
+// Tytania
+-
+-
+-
+-
+jej 
+// Zamrożona Bułka
+-
+-
+-
+-
+jej 
+// Pani Lawa
+-
+-
+-
+-
+jej 
+// Magman
+-
+-
+-
+-
+jego 
+// Facet Zombie
+-
+-
+-
+-
+jego 
+// Kobieta Zombie
+-
+-
+-
+-
+jego 
+// Marudząca Dusza
+-
+-
+-
+-
+jej 
+// Ruchliwy Grób
+-
+-
+-
+-
+jego 
+// Nieprzyssana Pijawka
+-
+-
+-
+-
+jej 
+// Bezkręgowy Homar
+-
+-
+-
+-
+jego 
+// OGROMNA Pluskwa
+-
+-
+-
+-
+jej 
+// Wesoły Szkielet
+-
+-
+-
+-
+jego 
+// Wielki Brat
+-
+-
+-
+-
+jego 
+// Człowiek Beczka
+-
+-
+-
+-
+jego 
+// Truskawkowy Szlam
+-
+-
+-
+-
+jego 
+// Pajęczak!
+-
+-
+-
+-
+jego 
+// Gwałtowny Karaluch
+-
+-
+-
+-
+jego 
+// Trójca Bariery
+-
+-
+-
+-
+ich 
+// Zbroja Ducha
+-
+-
+-
+-
+jej 
+// Miecz Ducha
+-
+-
+-
+-
+jego 
+// Tarcza Ducha
+-
+-
+-
+-
+jej 
+// Duch Rycerza
+-
+-
+-
+-
+jego 
+// Peleryna z Osohe
+-
+-
+-
+-
+jej 
+// Rozkołysany Duch
+-
+-
+-
+-
+jego 
+// Pseudodrzwi
+-
+-
+-
+-
+ich 
+// Straszny Uśmiech
+-
+-
+-
+-
+jego 
+// Żuk Gnojarz
+-
+-
+-
+-
+jego 
+// Wielki Mrówkolew
+-
+-
+-
+-
+jego 
+// Sara-Sara-Sahara
+-
+-
+-
+-
+jej 
+// Piaskowa Jaszczurka
+-
+-
+-
+-
+jej 
+// Kaktusowy Wilk
+-
+-
+-
+-
+jego 
+// Glutowaty Glut
+-
+-
+-
+-
+jego 
+// Kleokotra
+-
+-
+-
+-
+jej 
+// Mały Wielki Brat
+-
+-
+-
+-
+jego 
+// Grzyb Zombie
+-
+-
+-
+-
+jego 
+// Śmierdzący Duch
+-
+-
+-
+-
+jego 
+// Artystyczny Duch
+-
+-
+-
+-
+jego 
+// Ogierantula
+-
+-
+-
+-
+jej 
+// Świńska Petunia
+-
+-
+-
+-
+jej 
+// Skrzeczący Kij
+-
+-
+-
+-
+jego 
+// Zgniły Człowiek Pleśń
+-
+-
+-
+-
+jego 
+// Zaskuroniec
+-
+-
+-
+-
+jego 
+// Wszystko Jedno
+-
+-
+-
+-
+jego 
+// Piesoryba
+-
+-
+-
+-
+jej 
+// Wężobydlę
+-
+-
+-
+-
+jego 
+// Einwieprz
+-
+-
+-
+-
+jego 
+// Modliszka
+-
+-
+-
+-
+jej 
+// Starożytna Ważka
+-
+-
+-
+-
+jej 
+// Paskudny Karaluch
+-
+-
+-
+-
+jego 
+// Kundlomor
+-
+-
+-
+-
+jego 
+// Mecha-Żółw
+-
+-
+-
+-
+jego 
+// Zespół Braci
+-
+-
+-
+-
+ich 
+// Orangutoperz
+-
+-
+-
+-
+jego 
+// StrusiosÎoń
+-
+-
+-
+-
+jego 
+// Niebiańska Tytania
+-
+-
+-
+-
+jej 
+// Morspiszon
+-
+-
+-
+-
+jego 
+// Rodzicielski Kangurekin
+-
+-
+-
+-
+jego 
+// Mała Pani Pianka
+-
+-
+-
+-
+jej 
+// Prawie Mecha-Lew
+-
+-
+-
+-
+jego 
+// Rakietorożec
+-
+-
+-
+-
+jego 
+// Nakręcony Pirat Drogowy
+-
+-
+-
+-
+jego 
+// Metalowy Karaluch
+-
+-
+-
+-
+jego 
+// Prawdziwie Latająca Mysz
+-
+-
+-
+-
+jej 
+// Krótka Obwodowa Iskra!
+-
+-
+-
+-
+jej 
+// Pomniejszy Robot
+-
+-
+-
+-
+jego 
+// Miłosny Spacerowicz
+-
+-
+-
+-
+jego 
+// Straszny Uśmiech
+-
+-
+-
+-
+jego 
+// Atomowy Robot Mocy
+-
+-
+-
+-
+jego 
+// Nuklearny Robot Reaktor
+-
+-
+-
+-
+jego 
+// Negatywny Człek
+-
+-
+-
+-
+jego 
+// Masywnogłowy
+-
+-
+-
+-
+jego 
+// Niezły Pozer
+-
+-
+-
+-
+jego 
+// Wielka Stonoga
+-
+-
+-
+-
+jej 
+// Tarty Pochrzynotwór
+-
+-
+-
+-
+jego 
+// Hipopotamia Wyrzutnia
+-
+-
+-
+-
+jej 
+// Stalowy Mechagoryl
+-
+-
+-
+-
+jego 
+// Pancernik Zombie
+-
+-
+-
+-
+jego 
+// Człek z Ikry
+-
+-
+-
+-
+jego 
+// PORKY 07
+-
+-
+-
+-
+jego 
+// Powrót Ośmiornibota
+-
+-
+-
+-
+jego 
+// Dywanowy Potwór
+-
+-
+-
+-
+jego 
+// Maszyna Zwiadowcza
+-
+-
+-
+-
+jej 
+// Świńska Maska
+-
+-
+-
+-
+jego 
+// Kobieta Zombie
+-
+-
+-
+-
+jej 
+// Niegrzeczny Grzyb
+-
+-
+-
+-
+jego 
+// Starszy Nietoperzyk
+-
+-
+-
+-
+jego 
+// Pajęczak!!!!
+-
+-
+-
+-
+jego 
+// Chciwsza Mysz
+-
+-
+-
+-
+jej 
+// Łagodnie Grająca Gitara
+-
+-
+-
+-
+jej 
+// Wyczerpany Bęben
+-
+-
+-
+-
+jego 
+// Przebudowany Kret
+-
+-
+-
+-
+jego 
+// Przebudowany Lew
+-
+-
+-
+-
+jego 
+// Drgający Robot
+-
+-
+-
+-
+jego 
+// Znak Toalety Męskiej
+-
+-
+-
+-
+jego 
+// Złomowany Robot
+-
+-
+-
+-
+jego 
+// Beznadziejna Kupa Śmieci
+-
+-
+-
+-
+jej 
+// Pudełko Niespodzianka
+-
+-
+-
+-
+jego 
+// Człowiek Bateria
+-
+-
+-
+-
+jego 
+// Luźna Śrubka
+-
+-
+-
+-
+jej 
+// Tuląca Bomba
+-
+-
+-
+-
+jej 
+// K9000
+-
+-
+-
+-
+jego 
+// Człowiek Alkaliczny
+-
+-
+-
+-
+jego 
+// PORKY 06
+-
+-
+-
+-
+jego 
+// Major Świńska Maska
+-
+-
+-
+-
+jego 
+// Pułkownik Świńska Maska
+-
+-
+-
+-
+jego 
+// Kapitan Świńska Maska
+-
+-
+-
+-
+jego 
+// Marynarz KWIK
+-
+-
+-
+-
+jego 
+// Mistrz Eddy
+-
+-
+-
+-
+jego 
+// Rockujący Homar
+-
+-
+-
+-
+jego 
+// OkrąąągÎa Ryba
+-
+-
+-
+-
+jej 
+// Niebieski Łysiejący Orzeł
+-
+-
+-
+-
+jego 
+// Robot Bezpieczeństwa
+-
+-
+-
+-
+jego 
+// Nieproszony Podmuch
+-
+-
+-
+-
+jego 
+// PORKY 09
+-
+-
+-
+-
+jego 
+// PORKY 10
+-
+-
+-
+-
+jego 
+// Tytanian
+-
+-
+-
+-
+jego 
+// Ulepszony Robot
+-
+-
+-
+-
+jego 
+// Fasolka
+-
+-
+-
+-
+jej 
+// Czarna Fasolka
+-
+-
+-
+-
+jej 
+// Malutki Las
+-
+-
+-
+-
+jego 
+// PORKY 04
+-
+-
+-
+-
+jego 
+// PORKY 05
+-
+-
+-
+-
+jego 
+// Zamaskowany
+-
+-
+-
+-
+jego 
+// Zamaskowany
+-
+-
+-
+-
+jego 
+// (PUSTY)
+-
+-
+-
+-
+-
+// Szpilka
+-
+-
+-
+-
+-
+// Mrówkolew
+-
+-
+-
+-
+-
+// Okrutny Kawalerzysta
+-
+-
+-
+-
+-
+// Krab
+-
+-
+-
+-
+-
+// Sum Elektryczny
+-
+-
+-
+-
+-
+// Shimmy Zmizz
+-
+-
+-
+-
+-
+// Magic
+-
+-
+-
+-
+-
+// Duster
+-
+-
+-
+-
+-
+// Keyboard
+-
+-
+-
+-
+-
+// OJ
+-
+-
+-
+-
+-
+// Robot
+-
+-
+-
+-
+-
+// Żuk Gnojarz
+-
+-
+-
+-
+-
+// Osoba w Namiocie
+-
+-
+-
+-
+-
+// Śnieżny Królik
+-
+-
+-
+-
+-
+// Gliniany Człek
+-
+-
+-
+-
+-
+// Para
+-
+-
+-
+-
+-
+// Linowy Wąż
+-
+-
+-
+-
+-
+// Linowy Wąż
+-
+-
+-
+-
+-
+// Stół Aeolii
+-
+-
+-
+-
+-
+// Słoma
+-
+-
+-
+-
+-
+// Para 2
+-
+-
+-
+-
+-
+// Mini Winda
+-
+-
+-
+-
+-
+// Drago
+-
+-
+-
+-
+-
+// Okrutny Kawalerzysta
+-
+-
+-
+-
+-
+// Zielony Pociąg
+-
+-
+-
+-
+-
+// Drago Pompa
+-
+-
+-
+-
+-
+// Troje Amigo
+-
+-
+-
+-
+-
+// Kwiat
+-
+-
+-
+-
+-
+// Linowa Drabina
+-
+-
+-
+-
+-
+// Płomień 3
+-
+-
+-
+-
+-
+// Flaga
+-
+-
+-
+-
+-
+// Kolejka Linowa
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// Kawałek
+-
+-
+-
+-
+-
+// Płomień 1
+-
+-
+-
+-
+-
+// Korzeń Lotosu
+-
+-
+-
+-
+-
+// Nieobrobiona Glina
+-
+-
+-
+-
+-
+// Eksplozja
+-
+-
+-
+-
+-
+// Dym
+-
+-
+-
+-
+-
+// Głowa Posągu
+-
+-
+-
+-
+-
+// Karuzela
+-
+-
+-
+-
+-
+// Garderoba Nippo
+-
+-
+-
+-
+-
+// Rój Świetlików
+-
+-
+-
+-
+-
+// Ubranie Hinawy
+-
+-
+-
+-
+-
+// Sum Elektryczny
+-
+-
+-
+-
+-
+// Miotła
+-
+-
+-
+-
+-
+// Ryba
+-
+-
+-
+-
+-
+// Jeżowiec
+-
+-
+-
+-
+-
+// Pociąg
+-
+-
+-
+-
+-
+// Znak
+-
+-
+-
+-
+-
+// Znak
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// Portret
+-
+-
+-
+-
+-
+// Przyjazny Duch
+-
+-
+-
+-
+-
+// Śmietnik
+-
+-
+-
+-
+-
+// Stalowa Kula
+-
+-
+-
+-
+-
+// Jajko ŚwiatÎa
+-
+-
+-
+-
+-
+// Kasztan
+-
+-
+-
+-
+-
+// Rozkołysany Duch
+-
+-
+-
+-
+-
+// Świeca
+-
+-
+-
+-
+-
+// Mysz
+-
+-
+-
+-
+-
+// Maszyna Energetyczna
+-
+-
+-
+-
+-
+// Lekkie Ostrze
+-
+-
+-
+-
+-
+// Kieliszek Wina
+-
+-
+-
+-
+-
+// Linowy Wąż
+-
+-
+-
+-
+-
+// Pluskwa
+-
+-
+-
+-
+-
+// Śmieciarka
+-
+-
+-
+-
+-
+// Dym
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+// Doria
+-
+-
+-
+-
+-
+// Lupa
+-
+-
+-
+-
+-
+// Dymek Tekstowy
+-
+-
+-
+-
+-
+// Znak
+-
+-
+-
+-
+-
+// BRAK Kamienia
+-
+-
+-
+-
+-
+// Kumatora
+-
+-
+-
+-
+-
+// Odłamek Kamienia
+-
+-
+-
+-
+-
+// Ten Samochód
+-
+-
+-
+-
+-
+// Czarny Drago
+-
+-
+-
+-
+-
+// Kreci Świerszcz
+-
+-
+-
+-
+-
+// Błyskawica
+-
+-
+-
+-
+-
+// Statek Powieprzny
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// Lydia
+-
+-
+-
+-
+-
+// Mixolydia
+-
+-
+-
+-
+-
+// Hinawa
+-
+-
+-
+-
+-
+// Zamrożony Drago
+-
+-
+-
+-
+-
+// Porky
+-
+-
+-
+-
+-
+// Piorun
+-
+-
+-
+-
+-
+// Mała Mysz
+-
+-
+-
+-
+-
+// Dr. Andonuts
+-
+-
+-
+-
+-
+// Zamek Osohe
+-
+-
+-
+-
+-
+// Statek Powieprzny
+-
+-
+-
+-
+-
+// Wulkan
+-
+-
+-
+-
+-
+// Eksplozja FX
+-
+-
+-
+-
+-
+// Napis
+-
+-
+-
+-
+-
+// Odległy Statek
+-
+-
+-
+-
+-
+// Płytki
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// Wodna Kolumna
+-
+-
+-
+-
+-
+// Odległy Statek
+-
+-
+-
+-
+-
+// BRAK Dymu Skalnego
+-
+-
+-
+-
+-
+// Dym
+-
+-
+-
+-
+-
+// Drzewko
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// (PUSTY)
+-
+-
+-
+-
+-
+// Grób
+-
+-
+-
+-
+-
+// Phrygia
+-
+-
+-
+-
+-
+// Kostka
+-
+-
+-
+-
+-
+// Żelazny Ołówek
+-
+-
+-
+-
+-
+// Caribou
+-
+-
+-
+-
+-
+// Karibu
+-
+-
+-
+-
+-
+// Suchy Wiatr Drago
+-
+-
+-
+-
+-
+// Grzyb
+-
+-
+-
+-
+-
+// Most
+-
+-
+-
+-
+-
+// Niebieski Namiot
+-
+-
+-
+-
+-
+// Drewniany Koń Stołowy 1
+-
+-
+-
+-
+-
+// Drewniany Koń Stołowy 2
+-
+-
+-
+-
+-
+// Drewniany Koń Stołowy 3
+-
+-
+-
+-
+-
+// Łódź na 100. Piętrze
+-
+-
+-
+-
+-
+// Mini Porky-Bot
+-
+-
+-
+-
+-
+// Znak
+-
+-
+-
+-
+-
+// Wózek
+-
+-
+-
+-
+-
+// Balon do Gry
+-
+-
+-
+-
+-
+// Atrament Ośmiornicy
+-
+-
+-
+-
+-
+// Smocze Fajerwerki
+-
+-
+-
+-
+-
+// Rakieta
+-
+-
+-
+-
+-
+// Radiowóz
+-
+-
+-
+-
+-
+// Samochód
+-
+-
+-
+-
+-
+// Poddasze Titiboo
+-
+-
+-
+-
+-
+// Drewniane Logo MOTHER 3
+-
+-
+-
+-
+-
+// Podświat
+-
+-
+-
+-
+-
+// Zaświat
+-
+-
+-
+-
+-
+// Drzwi Toalety Męskiej
+-
+-
+-
+-
+-
+// Aeolia i Sofa
+-
+-
+-
+-
+-
+// PUSTY (Postać)
+-
+-
+-
+-
+-
+// Flint
+-
+-
+-
+-
+jego 
+// Lucas
+-
+-
+-
+-
+jego 
+// Duster
+-
+-
+-
+-
+jego 
+// Kumatora
+-
+-
+-
+-
+jej 
+// Boney
+-
+-
+-
+-
+jego 
+// Salsa
+-
+-
+-
+-
+jego 
+// Wess
+-
+-
+-
+-
+jego 
+// Thomas
+-
+-
+-
+-
+jego 
+// Ionia
+-
+-
+-
+-
+jej 
+// Fuel
+-
+-
+-
+-
+jego 
+// Alec
+-
+-
+-
+-
+jego 
+// Fassad
+-
+-
+-
+-
+jego 
+// Claus
+-
+-
+-
+-
+jego 

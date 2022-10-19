@@ -1,0 +1,514 @@
+// Item names must be 21 letters or less
+
+0000: EMPTY
+0000-E: PUSTY
+0001: Lighter's Lumber
+0001-E: Belka Lightera
+0002: Fresh Lumber
+0002-E: Œwie¿e Drewno
+0003: Stick
+0003-E: Kij
+0004: Better Stick
+0004-E: Lepszy Kij
+0005: Easy-Grip Stick
+0005-E: Wygodny Kij
+0006: Good Stick
+0006-E: Dobry Kij
+0007: Very Good Stick
+0007-E: Bardzo Dobry Kij
+0008: Funny Stick
+0008-E: Zabawny Kij
+0009: Vigor Stick
+0009-E: Kij Wigoru
+000A: Clever Stick
+000A-E: Kij Sprytu
+000B: Master Stick
+000B-E: Mistrzowski Kij
+000C: Mystical Stick
+000C-E: Mistyczny Kij
+000D: Gloves
+000D-E: Rêkawiczki
+000E: Durable Gloves
+000E-E: WytrzymaÎe Rêkawiczki
+000F: Chic Gloves
+000F-E: Szykowne Rêkawiczki
+0010: Strong Gloves
+0010-E: Silne Rêkawiczki
+0011: Magic Gloves
+0011-E: Magiczne Rêkawiczki
+0012: Sevolg
+0012-E: Ikzciwakêr
+0013: Expensive Gloves
+0013-E: Drogie Rêkawiczki
+0014: Angel Gloves
+0014-E: Rêkawiczki AnioÎa
+0015: Mystical Gloves
+0015-E: Mistyczne Rêkawiczki
+0016: Ordinary Shoes
+0016-E: ZwykÎe Buty
+0017: Durable Shoes
+0017-E: WytrzymaÎe Buty
+0018: Sharp Shoes
+0018-E: Ostre Buty
+0019: Ultimate Shoes
+0019-E: Ostateczne Buty
+001A: Mystical Shoes
+001A-E: Mistyczne Buty
+001B: Good Shoes
+001B-E: Dobre Buty
+001C: Rubber Boots
+001C-E: Gumowe Buty
+001D: Barefoot Shoes
+001D-E: Bose Buty
+001E: Non-Slip Shoes
+001E-E: Buty Antypoœlizgowe
+001F: Handy Yo-Yo
+001F-E: Porêczne Jo-Jo
+0020: Canine Weapon
+0020-E: Psia Broñ
+0021: DCMC Pamphlet
+0021-E: Broszura DCMC
+0022: Fake Bat
+0022-E: FaÎszywy Kij
+0023: Fake Frying Pan
+0023-E: FaÎszywa Patelnia
+0024: Real Bat
+0024-E: Prawdziwy Kij
+0025: Mini-Mini Charm
+0025-E: Czar Mini-Mini
+0026: Flea Charm
+0026-E: Pchli Czar
+0027: Mosquito Charm
+0027-E: Czar Komara
+0028: Fly Charm
+0028-E: Czar Muchy
+0029: Bantam Charm
+0029-E: Koguci Czar
+002A: Feather Charm
+002A-E: Czar Pióra
+002B: Pumice Charm
+002B-E: Czar Pumeksu
+002C: Heavy Charm
+002C-E: Ciê¿ki Czar
+002D: Thud Charm
+002D-E: Czar Éomotu
+002E: White Collar
+002E-E: BiaÎa Obro¿a
+002F: Brown Collar
+002F-E: Bràzowa Obro¿a
+0030: Black Collar
+0030-E: Czarna Obro¿a
+0031: Striped Collar
+0031-E: Obro¿a w Paski
+0032: Red Collar
+0032-E: Czerwona Obro¿a
+0033: DCMC Shirt
+0033-E: Koszulka DCMC
+0034: Rubber Cape
+0034-E: Gumowa Peleryna
+0035: Aloha Coat
+0035-E: Koszulka Aloha
+0036: Warm Sweater
+0036-E: CiepÎy Sweter
+0037: Goddess Bustier
+0037-E: Boski Stanik
+0038: Awesome Cloak
+0038-E: Niesamowity PÎaszcz
+0039: Manly Bandana
+0039-E: Mêska Bandana
+003A: Chick Bandana
+003A-E: Bandana Pisklêcia
+003B: Sparrow Bandana
+003B-E: Bandana Wróbla
+003C: Rail Bandana
+003C-E: Bandana Chruœcielu
+003D: Swallow Bandana
+003D-E: Bandana JaskóÎki
+003E: Crow Bandana
+003E-E: Bandana Wrony
+003F: Kite Bandana
+003F-E: Bandana Latawca
+0040: Horus Bandana
+0040-E: Bandana Horusu
+0041: Ordinary Hat
+0041-E: ZwykÎy Kapelusz
+0042: Cow Hat
+0042-E: Krowia Czapka
+0043: Alligator Hat
+0043-E: Czapka Aligatora
+0044: Bear Hat
+0044-E: Czapka NiedŸwiedzia
+0045: Otter Hat
+0045-E: Czapka Wydry
+0046: Scarlet Ribbon
+0046-E: SzkarÎatna Wstà¿ka
+0047: Azure Ribbon
+0047-E: Lazurowa Wstà¿ka
+0048: Boing Ribbon
+0048-E: Wstà¿ka Boing
+0049: Fairy Ribbon
+0049-E: Wstà¿ka Wró¿ki
+004A: Angel Ribbon
+004A-E: Wstà¿ka AnioÎa
+004B: Goddess Ribbon
+004B-E: Boska Wstà¿ka
+004C: DCMC Hat
+004C-E: Czapka DCMC
+004D: Awesome Crown
+004D-E: WspaniaÎa Korona
+004E: Aries Bracelet
+004E-E: Bransoleta Barana
+004F: Aquarius Bracelet
+004F-E: Bransoleta Wodnika
+0050: Pisces Bracelet
+0050-E: Bransoleta Ryb
+0051: Capricorn Bracelet
+0051-E: Bransoleta Kozioro¿ca
+0052: Taurus Bracelet
+0052-E: Bransoleta Byka
+0053: Gemini Bracelet
+0053-E: Bransoleta BliŸniàt
+0054: Cancer Bracelet
+0054-E: Bransoleta Raka
+0055: Leo Bracelet
+0055-E: Bransoleta Lwa
+0056: Virgo Bracelet
+0056-E: Bransoleta Panny
+0057: Libra Bracelet
+0057-E: Bransoleta Wagi
+0058: Scorpio Bracelet
+0058-E: Bransoleta Skorpiona
+0059: Sagittarius Bracelet
+0059-E: Bransoleta Strzelca
+005A: DCMC Ring
+005A-E: Pierœcieñ DCMC
+005B: Awesome Ring
+005B-E: WspaniaÎy Pierœcieñ
+005C: Favorite Food
+005C-E: Ulubione Jedzenie
+005D: Nut
+005D-E: Orzech
+005E: Nut Bread
+005E-E: Chleb Orzechowy
+005F: Nut Cookie
+005F-E: Ciastko Orzechowe
+0060: Fresh Milk
+0060-E: Œwie¿e Mleko
+0061: Rotten Milk
+0061-E: ZgniÎe Mleko
+0062: Yogurt
+0062-E: Jogurt
+0063: Edible Mushroom
+0063-E: Jadalny Grzyb
+0064: Innit Tea
+0064-E: Herbata Innit
+0065: Beef Jerky
+0065-E: Suszona WoÎowina
+0066: Fresh Egg
+0066-E: Œwie¿e Jajko
+0067: Rotten Eclair
+0067-E: ZgniÎa Eklerka
+0068: Rotten Bavarois
+0068-E: ZgniÎe Bavarois
+0069: Peculiar Cheese
+0069-E: Specyficzny Ser
+006A: Bag of Pork Chips
+006A-E: Chipsy Wieprzowe
+006B: Luxury Banana
+006B-E: Luksusowy Banan
+006C: Bread Roll
+006C-E: BuÎka
+006D: Fizzy Soda
+006D-E: Soda Gazowana
+006E: Big City Soda
+006E-E: Miejska Soda
+006F: Big City Cola
+006F-E: Miejska Cola
+0070: Big City Burger
+0070-E: Miejski Burger
+0071: Bag of Big City Fries
+0071-E: Miejskie Frytki
+0072: Doggy Biscuit
+0072-E: Herbatnik dla Psa
+0073: Doggy Jerky
+0073-E: WoÎowina dla Psa
+0074: White Croissant
+0074-E: BiaÎy Rogalik
+0075: Cup of Pork Noodles
+0075-E: Wieprzowe Nudle
+0076: Pork Stew
+0076-E: Gulasz Wieprzowy
+0077: Sincerity Dumplings
+0077-E: Pierogi Szczeroœci
+0078: Strawberry Tofu
+0078-E: Truskawkowe Tofu
+0079: Lucky Rice
+0079-E: Ry¿ Szczêœcia
+007A: Lotto Meal
+007A-E: PosiÎek Lotto
+007B: Jumbo Shrimp Soup
+007B-E: Zupa z Krewetek Jumbo
+007C: Giant Abalone Steak
+007C-E: Wielki Stek z Abalone
+007D: Double Jerky
+007D-E: Podwójna WoÎowina
+007E: Grilled Chicken
+007E-E: Grillowany Kurczak
+007F: Grilled Fish
+007F-E: Grillowana Ryba
+0080: Pasta with a Past
+0080-E: Makaron PrzeszÎoœci
+0081: Favorite Pizza
+0081-E: Ulubiona Pizza
+0082: King Burger
+0082-E: Królewski Burger
+0083: Beefsteak
+0083-E: Stek WoÎowy
+0084: Rich Kid Stew
+0084-E: Bogaty Gulasz
+0085: Rich Parfait
+0085-E: Bogaty Parfait
+0086: Hot Dog Sushi
+0086-E: Hot Dog Sushi
+0087: Magic Gelatin
+0087-E: Magiczna Èelatyna
+0088: Magic Tart
+0088-E: Magiczna Tarta
+0089: Magic Pudding
+0089-E: Magiczny Budyñ
+008A: Magic Cake
+008A-E: Magiczne Ciasto
+008B: Antidote
+008B-E: Antidotum
+008C: Anti-Paralysis
+008C-E: Anty-Parali¿
+008D: Alarm Cicada
+008D-E: Alarmujàca Cykada
+008E: Fresh Mint
+008E-E: Œwie¿a Miêta
+008F: Paper Fan
+008F-E: Wachlarz
+0090: Recollection Bell
+0090-E: Dzwon Wspomnieñ
+0091: Eye Drops
+0091-E: Krople do Oczu
+0092: Flea Powder
+0092-E: Proszek na PchÎy
+0093: Secret Herb
+0093-E: Sekretne ZioÎo
+0094: Cup of Lifenoodles
+0094-E: Kubek Èyciowych Nudli
+0095: Hot Spring Egg
+0095-E: Jajko Goràcego ËródÎa
+0096: Thunder Bomb
+0096-E: Bomba BÎyskawiczna
+0097: Running Bomb
+0097-E: Biegajàca Bomba
+0098: Sprinting Bomb
+0098-E: Sprintujàca Bomba
+0099: Pencil Rocket
+0099-E: OÎówkowa Rakieta
+009A: Bomb
+009A-E: Bomba
+009B: Super Bomb
+009B-E: Super Bomba
+009C: New Year's Eve Bomb
+009C-E: Bomba Sylwestrowa
+009D: Honey Shower
+009D-E: Miodowy Prysznic
+009E: Ancient Banana
+009E-E: Staro¿ytny Banan
+009F: Doorknob
+009F-E: Klamka
+00A0: Bug Spray
+00A0-E: Spray na Robaki
+00A1: Saltwater Gun
+00A1-E: Pistolet SÎonowodny
+00A2: Offense Spray
+00A2-E: Spray Ofensywny
+00A3: Defense Spray
+00A3-E: Spray Obronny
+00A4: Enemy Bufferizer
+00A4-E: Wrogi Buforizer
+00A5: Enemy Wimperizer
+00A5-E: Wrogi Wimperizer
+00A6: Attack Attractor
+00A6-E: Atakujàcy Atraktor
+00A7: Made-You-Look
+00A7-E: Rozejrzyj Siê
+00A8: Dragonfly
+00A8-E: Wa¿ka
+00A9: Silver Dragonfly
+00A9-E: Srebrna Wa¿ka
+00AA: Chick
+00AA-E: Pisklê
+00AB: Chicken
+00AB-E: Kurczak
+00AC: Pickled Veggie Plate
+00AC-E: Marynowane Warzywa
+00AD: Meteotite
+00AD-E: Meteotyt
+00AE: Friend's Yo-Yo
+00AE-E: Jo-Jo Przyjaciela
+00AF: Drago Fang
+00AF-E: KieÎ Drago
+00B0: Dung
+00B0-E: Gnój
+00B1: Dolphin Ossicle
+00B1-E: Kosteczka Delfina
+00B2: Spiky Weapon
+00B2-E: Kolczasta Broñ
+00B3: Knit Sweater
+00B3-E: Sweter z Dzianiny
+00B4: DCMC Boxers
+00B4-E: Bokserki DCMC
+00B5: Magic Pendant
+00B5-E: Magiczny Wisiorek
+00B6: Encouraging Words
+00B6-E: SÎowa Zachêty
+00B7: Baked Yam
+00B7-E: Pieczony Ziemniak
+00B8: Mole Cricket Brother
+00B8-E: Brat K. Œwierszcza
+00B9: Hermit Crab Shell
+00B9-E: Skorupa Biernatka
+00BA: Suspicious Tea
+00BA-E: Podejrzana Herbata
+00BB: Flame Pendant
+00BB-E: Ognisty Wisiorek
+00BC: Ice Pendant
+00BC-E: Lodowy Wisiorek
+00BD: Thunder Pendant
+00BD-E: Wisiorek Pioruna
+00BE: Courage Badge
+00BE-E: Odznaka Odwagi
+00BF: Souvenir Dress
+00BF-E: Pamiàtkowa Sukienka
+00C0: Pencil Eraser
+00C0-E: Wymazywacz OÎówków
+00C1: Franklin Badge
+00C1-E: Odznaka Franklina
+00C2: Kid's Shirt
+00C2-E: Koszulka Dzieciaka
+00C3: Good Kid's Shirt
+00C3-E: Dobra Koszulka
+00C4: Kid's Hat
+00C4-E: Czapka Dzieciaka
+00C5: Jar of Yummy Pickles
+00C5-E: SÎoik Pysznych Pikli
+00C6: Red Hat
+00C6-E: Czerwona Czapka
+00C7: White Ribbon
+00C7-E: BiaÎa Wstà¿ka
+00C8: Bird
+00C8-E: Ptak
+00C9: Memory Snake
+00C9-E: Wà¿ Pamiêci
+00CA: Waters of Time
+00CA-E: Wody Czasu
+00CB: Stinkbug's Memory
+00CB-E: Pamiêæ Pluskwy
+00CC: Phrygia's Notebook
+00CC-E: Notatnik Phrygii
+00CD: Shield Snatcher
+00CD-E: WyÎapywacz Tarcz
+00CE: Test
+00CE-E: Test
+00CF: EMPTY
+00CF-E: PUSTY
+00D0: EMPTY
+00D0-E: PUSTY
+00D1: EMPTY
+00D1-E: PUSTY
+00D2: Trivia Card 1
+00D2-E: Karta Ciekawostek 1
+00D3: Trivia Card 2
+00D3-E: Karta Ciekawostek 2
+00D4: Trivia Card 3
+00D4-E: Karta Ciekawostek 3
+00D5: Trivia Card 4
+00D5-E: Karta Ciekawostek 4
+00D6: Wall Staples
+00D6-E: Zszywki Œcienne
+00D7: Siren Beetle
+00D7-E: Syreni Chrzàszcz
+00D8: Smoke Bomb
+00D8-E: Bomba Dymna
+00D9: Hypno-Pendulum
+00D9-E: Hipno-WahadÎo
+00DA: Scary Mask
+00DA-E: Straszna Maska
+00DB: Tickle Stick
+00DB-E: Éaskoczàcy Kij
+00DC: Drawbridge Key
+00DC-E: Klucz do Mostu
+00DD: Noble Spittoon
+00DD-E: Szlachetna Spluwaczka
+00DE: Pendant
+00DE-E: Wisiorek
+00DF: Egg of Light
+00DF-E: Jajko ŒwiatÎa
+00E0: Scrap of Cloth
+00E0-E: Skrawek Ubrania
+00E1: Pig Mark Notebook
+00E1-E: Œwiñski Notatnik
+00E2: Child's Shoe
+00E2-E: But Dziecka
+00E3: Hand File
+00E3-E: Pilnik Rêczny
+00E4: Rope Snake
+00E4-E: Linowy Wà¿
+00E5: Rope Snake DX
+00E5-E: Linowy Wà¿ DX
+00E6: Transceiver
+00E6-E: Nadajnik
+00E7: Ticket
+00E7-E: Bilet
+00E8: Battle Memory
+00E8-E: Pamiêtnik Bitew
+00E9: Carrier Pigeon
+00E9-E: GoÎàb Pocztowy
+00EA: Razor and Lipstick
+00EA-E: Brzytwa i Szminka
+00EB: Ionia's Memento
+00EB-E: Memento Ionii
+00EC: Doria's Memento
+00EC-E: Memento Dorii
+00ED: Phrygia's Memento
+00ED-E: Memento Phrygii
+00EE: Lydia's Memento
+00EE-E: Memento Lydii
+00EF: Missy's Memento
+00EF-E: Memento Missy
+00F0: Aeolia's Memento
+00F0-E: Memento Aeolii
+00F1: Tazmily Map
+00F1-E: Mapa Tazmily
+00F2: Osohe Sketch
+00F2-E: Szkic Osohe
+00F3: Underground Map
+00F3-E: Mapa Podziemi
+00F4: Railway Map
+00F4-E: Mapa Linii Kolejowych
+00F5: Area Map
+00F5-E: Mapa Strefy
+00F6: Attic Guide
+00F6-E: Plan Poddasza
+00F7: Saturn Valley Map
+00F7-E: Mapa Doliny Saturn
+00F8: Sea Floor Map
+00F8-E: Mapa Dna Morza
+00F9: Cave Map
+00F9-E: Mapa Jaskini
+00FA: City Map
+00FA-E: Mapa Miasta
+00FB: Tower Sketch
+00FB-E: Szkic Wie¿y
+00FC: Chimera Lab Map
+00FC-E: Mapa Lab. Chimera
+00FD: Cricket Hole Map
+00FD-E: Mapa Dziury
+00FE: Highway Map
+00FE-E: Mapa Autostrady
+00FF: Factory Sketch
+00FF-E: Szkic Fabryki

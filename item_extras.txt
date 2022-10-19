@@ -1,0 +1,2304 @@
+//PUSTY
+-
+-
+-
+-
+-
+-
+-
+-
+//Belka Lightera
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//åwieøe Drewno
+-
+-
+-
+-
+to 
+-
+-
+-
+//Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Lepszy Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wygodny Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Dobry Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Bardzo Dobry Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Zabawny Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Kij Wigoru
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Kij Sprytu
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Mistrzowski Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Mistyczny Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//Wytrzyma≥e RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//Szykowne RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//Silne RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//Magiczne RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//IkzciwakÍr
+-
+-
+-
+-
+te 
+-
+-
+-
+//Drogie RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//RÍkawiczki AnioŒa
+-
+-
+-
+-
+te 
+-
+-
+-
+//Mistyczne RÍkawiczki
+-
+-
+-
+-
+te 
+-
+-
+-
+//Zwyk≥e Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Wytrzyma≥e Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Ostre Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Ostateczne Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Mistyczne Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Dobre Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Gumowe Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Bose Buty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Buty Antypoúlizgowe
+-
+-
+-
+-
+te 
+-
+-
+-
+//PorÍczne Jo-Jo
+-
+-
+-
+-
+to 
+-
+-
+-
+//Psia BroÒ
+-
+-
+-
+-
+t‡ 
+-
+-
+-
+//Broszura DCMC
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Fa≥szywy Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Fa≥szywa Patelnia
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Prawdziwy Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czar Mini-Mini
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Pchli Czar
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czar Komara
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czar Muchy
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Koguci Czar
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czar PiÛra
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czar Pumeksu
+-
+-
+-
+-
+ten 
+-
+-
+-
+//CiÍøki Czar
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czar £omotu
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Bia≥a Obroøa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Brπzowa Obroøa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czarna Obroøa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Obroøa w Paski
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czerwona Obroøa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Koszulka DCMC
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Gumowa Peleryna
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Koszulka Aloha
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Ciep≥y Sweter
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Boski Stanik
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Niesamowity P≥aszcz
+-
+-
+-
+-
+ten 
+-
+-
+-
+//MÍska Bandana
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana PisklÍcia
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana WrÛbla
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana Chruúcielu
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana JaskÛ≥ki
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana Wrony
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana Latawca
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bandana Horusu
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Zwyk≥y Kapelusz
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Krowia Czapka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czapka Aligatora
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czapka Niedüwiedzia
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czapka Wydry
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Szkar≥atna Wstπøka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Lazurowa Wstπøka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wstπøka Boing
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wstπøka WrÛøki
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wstπøka Anio≥a
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Boska Wstπøka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czapka DCMC
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wspania≥a Korona
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Barana
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Wodnika
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Ryb
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Kozioroøca
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Byka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Bliüniπt
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Raka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Lwa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Panny
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Wagi
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Skorpiona
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bransoleta Strzelca
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//PierúcieÒ DCMC
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wspania≥y PierúcieÒ
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Ulubione Jedzenie
+-
+-
+-
+-
+twoje 
+-
+-
+-
+//Orzech
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Chleb Orzechowy
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Ciastko Orzechowe
+-
+-
+-
+-
+to 
+-
+-
+-
+//åwieøe Mleko
+-
+-
+-
+-
+to 
+-
+-
+-
+//Zgni≥e Mleko
+-
+-
+-
+-
+to 
+-
+-
+-
+//Jogurt
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Jadalny Grzyb
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Herbata Innit
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Suszona Wo≥owina
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//åwieøe Jajko
+-
+-
+-
+-
+to 
+-
+-
+-
+//Zgni≥a Eklerka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Zgni≥e Bavarois
+-
+-
+-
+-
+to 
+-
+-
+-
+//Specyficzny Ser
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Chipsy Wieprzowe
+-
+-
+-
+-
+te 
+-
+-
+-
+//Luksusowy Banan
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Bu≥ka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Soda Gazowana
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Miejska Soda
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Miejska Cola
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Miejski Burger
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Miejskie Frytki
+-
+-
+-
+-
+te 
+-
+-
+-
+//Herbatnik dla Psa
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wo≥owina dla Psa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bia≥y Rogalik
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wieprzowe Nudle
+-
+-
+-
+-
+te 
+-
+-
+-
+//Gulasz Wieprzowy
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Pierogi Szczeroúci
+-
+-
+-
+-
+te 
+-
+-
+-
+//Truskawkowe Tofu
+-
+-
+-
+-
+to 
+-
+-
+-
+//Ryø SzczÍúcia
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Posi≥ek Lotto
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Zupa z Krewetek Jumbo
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wielki Stek z Abalone
+-
+-
+-
+-
+ten 
+-
+-
+-
+//PodwÛjna Wo≥owina
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Grillowany Kurczak
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Grillowana Ryba
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Makaron Przesz≥oúci
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Ulubiona Pizza
+-
+-
+-
+-
+tÍ 
+-
+-
+- 
+//KrÛlewski Burger
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Stek Wo≥owy
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Bogaty Gulasz
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Bogaty Parfait
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Hot Dog Sushi
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Magiczna Øelatyna
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Magiczna Tarta
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Magiczny BudyÒ
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Magiczne Ciasto
+-
+-
+-
+-
+to 
+-
+-
+-
+//Antidotum
+-
+-
+-
+-
+to 
+-
+-
+-
+//Anty-Paraliø
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Alarmujπca Cykada
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//åwieøa MiÍta
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wachlarz
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Dzwon WspomnieÒ
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Krople do Oczu
+-
+-
+-
+-
+te 
+-
+-
+-
+//Proszek na Pch≥y
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Sekretne Zio≥o
+-
+-
+-
+-
+to 
+-
+-
+-
+//Kubek Øyciowych Nudli
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Jajko Gorπcego èrÛd≥a
+-
+-
+-
+-
+to 
+-
+-
+-
+//Bomba B≥yskawiczna
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Biegajπca Bomba
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Sprintujπca Bomba
+-
+-
+-
+-
+tÍ 
+-
+-
+- 
+//O≥Ûwkowa Rakieta
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bomba
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Super Bomba
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bomba Sylwestrowa
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Miodowy Prysznic
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Staroøytny Banan
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Klamka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Spray na Robaki
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Pistolet S≥onowodny
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Spray Ofensywny
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Spray Obronny
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wrogi Buforizer
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wrogi Wimperizer
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Atakujπcy Atraktor
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Rozejrzyj SiÍ
+-
+-
+-
+-
+to 
+-
+-
+-
+//Waøka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Srebrna Waøka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//PisklÍ
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Kurczak
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Marynowane Warzywa
+-
+-
+-
+-
+te 
+-
+-
+-
+//Meteotyt
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Jo-Jo Przyjaciela
+-
+-
+-
+-
+to 
+-
+-
+-
+//Kie≥ Drago
+-
+-
+-
+-
+ten 
+-
+-
+-
+//GnÛj
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Kosteczka Delfina
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Kolczasta BroÒ
+-
+-
+-
+-
+t‡ 
+-
+-
+-
+//Sweter z Dzianiny
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Bokserki DCMC
+-
+-
+-
+-
+te 
+-
+-
+-
+//Magiczny Wisiorek
+-
+-
+-
+-
+ten 
+-
+-
+-
+//S≥owa ZachÍty
+-
+-
+-
+-
+te 
+-
+-
+-
+//Pieczony Ziemniak
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Brat Kreciego åwierszcza
+-
+-
+-
+-
+-
+-
+-
+-
+//Skorupa Biernatka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Podejrzana Herbata
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Ognisty Wisiorek
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Lodowy Wisiorek
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Wisiorek Pioruna
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Odznaka Odwagi
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Pamiπtkowa Sukienka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wymazywacz O≥ÛwkÛw
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Odznaka Franklina
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Koszulka Dzieciaka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Dobra Koszulka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Czapka Dzieciaka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//S≥oik Pysznych Pikli
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Czerwona Czapka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Bia≥a Wstπøka
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Ptak
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Wπø PamiÍci
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Wody Czasu
+-
+-
+-
+-
+te 
+-
+-
+-
+//PamiÍÊ Pluskwy
+-
+-
+-
+-
+-
+-
+-
+-
+//Notatnik Phrygii
+-
+-
+-
+-
+-
+-
+-
+-
+//Wy≥apywacz Tarcz
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Test
+-
+-
+-
+-
+-
+-
+-
+-
+//PUSTY
+-
+-
+-
+-
+-
+-
+-
+-
+//PUSTY
+-
+-
+-
+-
+-
+-
+-
+-
+//PUSTY
+-
+-
+-
+-
+-
+-
+-
+-
+//Karta Ciekawostek 1
+-
+-
+-
+-
+-
+-
+-
+-
+//Karta Ciekawostek 2
+-
+-
+-
+-
+-
+-
+-
+-
+//Karta Ciekawostek 3
+-
+-
+-
+-
+-
+-
+-
+-
+//Karta Ciekawostek 4
+-
+-
+-
+-
+-
+-
+-
+-
+//Zszywki åcienne
+-
+-
+-
+-
+te 
+-
+-
+-
+//Syreni Chrzπszcz
+-
+-
+-
+-
+tego 
+-
+-
+-
+//Bomba Dymna
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Hipno-Wahad≥o
+-
+-
+-
+-
+to 
+-
+-
+-
+//Straszna Maska
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//£askoczπcy Kij
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Klucz do Mostu
+-
+-
+-
+-
+-
+-
+-
+-
+//Szlachetna Spluwaczka
+-
+-
+-
+-
+-
+-
+-
+-
+//Wisiorek
+-
+-
+-
+-
+-
+-
+-
+-
+//Jajko åwiat≥a
+-
+-
+-
+-
+-
+-
+-
+-
+//Skrawek Ubrania
+-
+-
+-
+-
+-
+-
+-
+-
+//åwiÒski Notatnik
+-
+-
+-
+-
+-
+-
+-
+-
+//But Dziecka
+-
+-
+-
+-
+-
+-
+-
+-
+//Pilnik RÍczny
+-
+-
+-
+-
+-
+-
+-
+-
+//Linowy Wπø
+-
+-
+-
+-
+-
+-
+-
+-
+//Linowy Wπø DX
+-
+-
+-
+-
+-
+-
+-
+-
+//Nadajnik
+-
+-
+-
+-
+-
+-
+-
+-
+//Bilet
+-
+-
+-
+-
+-
+-
+-
+-
+//PamiÍtnik Bitew
+-
+-
+-
+-
+-
+-
+-
+-
+//Go≥πb Pocztowy
+-
+-
+-
+-
+-
+-
+-
+-
+//Brzytwa i Szminka
+-
+-
+-
+-
+-
+-
+-
+-
+//Memento Ionii
+-
+-
+-
+-
+-
+-
+-
+-
+//Memento Dorii
+-
+-
+-
+-
+-
+-
+-
+- 
+//Memento Phrygii
+-
+-
+-
+-
+-
+-
+-
+-
+//Memento Lydii
+-
+-
+-
+-
+-
+-
+-
+-
+//Memento Missy
+-
+-
+-
+-
+-
+-
+-
+- 
+//Memento Aeolii
+-
+-
+-
+-
+-
+-
+-
+-
+//Mapa Tazmily
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Szkic Osohe
+-
+-
+-
+-
+ten 
+-
+-
+- 
+//Mapa Podziemi
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Linii Kolejowych
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Strefy
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Plan Poddasza
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Mapa Doliny Saturn
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Dna Morza
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Jaskini
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Miasta
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Szkic Wieøy
+-
+-
+-
+-
+ten 
+-
+-
+-
+//Mapa Laboratorium Chimera
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Dziury
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Mapa Autostrady
+-
+-
+-
+-
+tÍ 
+-
+-
+-
+//Szkic Fabryki
+-
+-
+-
+-
+ten 
+-
+-
+-
